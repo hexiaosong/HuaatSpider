@@ -122,7 +122,7 @@ class WinxinSpider():
 if __name__ == '__main__':
 
     infile = data_path
-    outfile = '/Users/apple/Downloads/data_20170927.txt'
+    outfile = '/Users/apple/Downloads/data_20170928.txt'
     spider = WinxinSpider(infile=data_path, outfile=outfile)
     spider.regexp_parse()
     spider.save_file()
