@@ -10,9 +10,9 @@ from __future__ import unicode_literals
 
 
 EXPAND_WORDS_LIST = [
-    '汪星人',
-    '喵主子',
-    '铲屎官',
+    # '汪星人',
+    # '喵主子',
+    # '铲屎官',
     '吸猫',
 
 ]

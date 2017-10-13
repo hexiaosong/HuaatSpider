@@ -7,12 +7,15 @@ Create on 2017/10/12
 from __future__ import unicode_literals
 
 import re
+import os
 import time
 import random
 from collections import OrderedDict
 from bs4 import BeautifulSoup
 from splinter import Browser
 from spiders import logging
+from spiders import PROJECT_ROOT
+from captcha.damatu import dmt
 from utils.common import jprint
 from settings.settings_local import HOSTNAME
 from preprocess import extract_html
@@ -32,6 +35,7 @@ class SougouArticleSpider(object):
         self.logger = logging
         self.browser = Browser(browser_type)
 
+
     def create_browser(self, browser_type):
         try:
             self.driver_kwargs.update({'driver_name': browser_type, })
@@ -41,6 +45,15 @@ class SougouArticleSpider(object):
             self.logger.info('退出异常的%s浏览器' % self.spider_name)
             self.browser.quit()
             del self.browser
+
+
+    def generate_random_code(self, number):
+        """生成随机数"""
+        list_sample = [str(num) for num in range(0, 10)] + [chr(num) for num in range(65, 91)] + [chr(num) for num in
+                                                                                                  range(97, 123)]
+        vertification_code = "".join(random.sample(list_sample, number))
+
+        return vertification_code
 
 
     def get_search_url(self):
@@ -63,6 +76,11 @@ class SougouArticleSpider(object):
         :param expand_word_url:
         :return:
         """
+        def get_iamge_file(image_files, prefix):
+            for image in image_files:
+                if image.startswith(prefix):
+                    return image
+
         article_urls = []
 
         if index_page:
@@ -80,7 +98,27 @@ class SougouArticleSpider(object):
 
                 self.browser.visit(expand_word_url, timeout=10)
 
+        warning_str = "您的访问过于频繁"
+
         html = self.browser.html
+        count = 1
+        while warning_str in html and count < 5:
+            random_code_prefix = self.generate_random_code(5)
+            ele = self.browser.find_by_xpath('//*[@id="seccodeImage"]')
+            ele.screenshot('{}/images/{}'.format(PROJECT_ROOT, random_code_prefix))
+
+            image_files = os.listdir('{}/images'.format(PROJECT_ROOT))
+            image = get_iamge_file(image_files, random_code_prefix)
+
+            image_path = '{}/images/{}'.format(PROJECT_ROOT, image)
+            code = dmt.decode(image_path, 44).get('result')
+            time.sleep(3)
+            self.browser.find_by_xpath('//input[@id="seccodeInput"]').fill(code)
+            self.browser.find_by_xpath('//a[@id="submit"]').click()
+            count += 1
+            time.sleep(2)
+            html = self.browser.html
+
         soup = BeautifulSoup(html)
 
         container = soup.findAll("ul",{"class":"news-list"})
@@ -170,8 +208,10 @@ def main(page_num=50):
             article_page_urls.extend(spider.crawl_articles(index_page=False))
             count += 1
 
-        for detail_url in article_page_urls:
+        for index,detail_url in enumerate(article_page_urls):
             try:
+                spider.logger.info('Total url:{}. Crawling num:{} . Crawling URL:{}'
+                                   .format(len(article_page_urls), index+1, detail_url))
                 spider.extract_detail_page(detail_page_url=detail_url, expand_word=expand_word)
             except Exception,e:
                 spider.logger.error('Error: %s' % unicode(e))
