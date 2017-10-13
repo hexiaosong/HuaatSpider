@@ -74,7 +74,7 @@ def extract_html(html=None):
 
 if __name__ == '__main__':
 
-    url = 'https://mp.weixin.qq.com/s?src=3&timestamp=1507798095&ver=1&signature=wAdvoJDx9dQoE*73zz6A6tolTIPDqrcazKtVjf7trRJnyuuba1GBpf42Uec1zVOcMcupg5Sxt7Fd6LApPfhqOHqLu9wd-7BuB*p1Ts-UfUs6r5MY6tX6kQLIpS3lEUTcRso8LUNVcfxnhOnC-be2rQ=='
+    url = 'http://mp.weixin.qq.com/s?src=11&timestamp=1507858764&ver=449&signature=AXydSQXOjnhG6Un9URPB99DEILKwTIUts0mKsIxLgXQepId4GbrGhc9ZWojBCf1OEKv2xmkTAq8LzfV1xwDeJmCP2yN32zF-g4OCP0K7szyF5ONRVwAnMCtSvEovQJfB&new=1'
     html = get_html(url)
 
     result = extract_html(html)

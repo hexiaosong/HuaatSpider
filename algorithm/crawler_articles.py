@@ -143,7 +143,7 @@ class SougouArticleSpider(object):
             'expand_word':expand_word,
             'url':url,
             'html':html,
-            'weixin_name':result.get("name"),
+            'weixin_name':result.get("weixin_name"),
             'article_title':result.get("article_title"),
             'content':content
         }
