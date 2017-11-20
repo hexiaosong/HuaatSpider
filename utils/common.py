@@ -7,6 +7,7 @@ Create on 2017/10/2
 
 import time
 import re
+import datetime
 import requests
 from bson import json_util
 
@@ -27,6 +28,14 @@ def jprint(json_data):
     print(s)
 
     return s
+
+
+def yesterday_date():
+    """获取昨天日期"""
+    yesterday = datetime.date.today() - datetime.timedelta(days=1)
+    yesterday_str = yesterday.strftime('%Y_%m_%d')
+
+    return yesterday_str
 
 
 def test_proxy(host=None,port=None, is_proxy=False):

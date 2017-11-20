@@ -12,6 +12,7 @@ import codecs
 import random
 from collections import OrderedDict
 from splinter import Browser
+from apscheduler.schedulers.blocking import BlockingScheduler
 from spiders import *
 from utils.common import *
 from settings.settings_local import HOSTNAME
@@ -19,7 +20,7 @@ from data.WeixinData.gongzhonghao import *
 from db.mongodb.models import WinxinData
 
 data_path = '{}/data/data_20170927'.format(PROJECT_ROOT)
-
+sched = BlockingScheduler()
 
 class WinxinSpider():
 
@@ -68,7 +69,7 @@ class WinxinSpider():
         if next_path:
             self.browser.execute_script('window.scrollBy(0,1000)')
             self.browser.find_by_xpath(page_xpath).click()
-            time.sleep(random.randint(10,20))
+            time.sleep(random.randint(2,5))
             return True
         else:
             return False
@@ -84,7 +85,9 @@ class WinxinSpider():
 
         category_result = []
         try:
-            self.browser.visit(cate_url)
+            result = self.browser.visit(cate_url, timeout=40)
+            if result and 'timeout' in result:
+                self.browser.reload()
             element = self.browser.find_by_xpath(ele_xpath).first.html
             category_result.append(element)
             while self.get_next_page(next_page_xpath):
@@ -92,6 +95,7 @@ class WinxinSpider():
                 category_result.append(element)
         except Exception,e:
             self.logging.error(str(e))
+            self.browser.quit()
 
         return category_result
 
@@ -130,6 +134,7 @@ class WinxinSpider():
         解析区块元素或者正则解析网页字符串
         :return:
         """
+        self.output_list = []
         if not self.flag_download_data:
             assert self.file_data != []
             cate_results = self.file_data
@@ -187,35 +192,56 @@ class WinxinSpider():
                             jprint(d)
                             try:
                                 data = WinxinData(**d)
-                                data.save()
+                                query_result = WinxinData.objects.filter(article_title=d["article_title"])
+                                if not query_result:
+                                    data.save()
                             except Exception,e:
                                 self.logging.error(unicode(e))
 
     @time_deco
-    def save_file(self):
+    def save_file(self, path):
 
-        if os.path.exists(self.outfile):
-            self.outfile = "{}/data/data_{}.txt".format(PROJECT_ROOT, datetime.datetime.now().strftime('%Y_%m_%d'))
-            self.logging.debug('无输出文件路径，数据保存为默认路径:%s' % self.outfile)
         try:
-            with codecs.open(self.outfile, 'w', encoding='utf-8') as f:
+            with codecs.open(self.outfile, 'a', encoding='utf-8') as f:
                 for line in self.output_list:
                     f.write(line + '\n')
         except Exception,e:
             self.logging.error(unicode(e))
 
 
-if __name__ == '__main__':
+@sched.scheduled_job('interval', hours=3)
+def spider_task():
 
-    outfile = '/Users/apple/github/HuaatSpider'
-    # outfile = '/Users/apple/Downloads/2733774654/file/data_20170929/data_20170929.txt'
-    # spider = WinxinSpider(infile=infile, outfile=outfile)
-    # spider.regexp_parse()
-    # spider.save_file()
+    current_date = datetime.datetime.now().strftime('%Y_%m_%d')
+
+    data_save_dir = "{}/data/articles/{}".format(PROJECT_ROOT, current_date)
+    outfile = "{path}/data/articles/{date}/data_{date}.txt".format(path=PROJECT_ROOT, date=current_date)
+    visited_url_path = re.sub('.txt','_visited.txt', outfile)
+    if not os.path.exists(data_save_dir):
+        os.makedirs(data_save_dir)
+
+    if not os.path.exists(visited_url_path):
+        f = codecs.open(visited_url_path, 'a', encoding='utf-8')
+        f.close()
+    else:
+        visited_url = codecs.open(visited_url_path, 'r', encoding='utf-8').readlines()
+        clean_visited_url = [item.strip('\n') for item in visited_url]
+
     spider = WinxinSpider(outfile=outfile)
     cate_urls = spider.generate_cate_url()
     for cate_url in cate_urls.values():
-        result = spider.get_raw_element(cate_url)
-        spider.regexp_parse(result)
-    spider.save_file()
+        if cate_url not in clean_visited_url:
+            result = spider.get_raw_element(cate_url)
+            if len(result)>=1:
+                spider.regexp_parse(result)
+                spider.save_file(outfile)
+                with codecs.open(visited_url_path, 'a', encoding='utf-8') as f:
+                    f.write(cate_url + '\n')
     spider.browser.quit()
+
+
+
+if __name__ == '__main__':
+
+    # sched.start()
+    spider_task()

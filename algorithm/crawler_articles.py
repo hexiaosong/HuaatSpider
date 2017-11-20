@@ -19,7 +19,7 @@ from captcha.damatu import dmt
 from utils.common import jprint
 from settings.settings_local import HOSTNAME
 from preprocess import extract_html
-from db.mongodb.models import SouguoArticle
+from db.mongodb.models import (SouguoArticle,SouguoArticleUrl)
 from data.WeixinData.ExpandWords import EXPAND_WORDS_LIST
 
 
@@ -70,7 +70,7 @@ class SougouArticleSpider(object):
         return expand_word_urls
 
 
-    def crawl_articles(self, expand_word_url=None, is_login=True, wait_time=5, index_page=True):
+    def crawl_articles(self, expand_word_url=None, is_login=True, wait_time=5, index_page=True, expand_word=''):
         """
         爬取单个搜索扩展关键词文章
         :param expand_word_url:
@@ -80,8 +80,6 @@ class SougouArticleSpider(object):
             for image in image_files:
                 if image.startswith(prefix):
                     return image
-
-        article_urls = []
 
         if index_page:
             self.browser.visit(expand_word_url, timeout=10)
@@ -129,14 +127,25 @@ class SougouArticleSpider(object):
                     href = node.div.a.attrs['href']
                     title_text = node.find("div",{"class":"txt-box"}).h3.a.get_text()
                     title = re.sub('[ \n\r(red_beg)(red_end)]','', title_text)
-                    if not SouguoArticle.objects.filter(article_title__contains=title):
-                        article_urls.append(href)
+                    author = node.find("div",{"class":"s-p"}).a.get_text()
+                    publish_date = re.search('(20\d+-\d+-\d+)', node.find("div",{"class":"s-p"}).span.get_text()).group(1)
+
+                    d = {
+                        'expand_word':expand_word,
+                        'title':title,
+                        'winxin_ch_name':author,
+                        'publish_date':publish_date,
+                        'url':href,
+                        'status':0
+                    }
+                    jprint(d)
+                    if not SouguoArticleUrl.objects.filter(title__contains=title):
+                        article_url = SouguoArticleUrl(**d)
+                        article_url.save()
                 except KeyError,e:
                     self.logger.error('节点无href属性.{}'.format(node.prettify()))
                 except Exception,e:
                     self.logger.error('Error: {} \n {}'.format(node.prettify(), unicode(e)))
-
-        return article_urls
 
 
     def get_next_page(self):
@@ -196,30 +205,48 @@ class SougouArticleSpider(object):
 
 
 
-def main(page_num=50):
+def main():
 
     spider = SougouArticleSpider(expand_words=EXPAND_WORDS_LIST)
     search_urls = spider.get_search_url()
     for expand_word, search_url in search_urls.items():
-        article_page_urls = []
-        article_page_urls.extend(spider.crawl_articles(expand_word_url = search_url))
+        spider.crawl_articles(expand_word_url = search_url, expand_word=expand_word)
         count = 1
-        while spider.get_next_page() and count<=page_num:
-            article_page_urls.extend(spider.crawl_articles(index_page=False))
+        while spider.get_next_page():
+            spider.crawl_articles(index_page=False, expand_word=expand_word)
             count += 1
 
-        for index,detail_url in enumerate(article_page_urls):
-            try:
-                spider.logger.info('Total url:{}. Crawling num:{} . Crawling URL:{}'
-                                   .format(len(article_page_urls), index+1, detail_url))
-                spider.extract_detail_page(detail_page_url=detail_url, expand_word=expand_word)
-            except Exception,e:
-                spider.logger.error('Error: %s' % unicode(e))
-                continue
 
+def crawl_detail_page():
+    spider = SougouArticleSpider()
+    article_urls = SouguoArticleUrl.objects.filter(status = 0)
+    spider.logger.info('尚未爬取的URl共有%s条.' % len(article_urls))
+    for index, article in enumerate(article_urls):
+        try:
+            spider.logger.info('Total url:{}. Crawling num:{} . \n {}'
+                               .format(len(article_urls), index+1, article))
+            detail_url = article.url
+            expand_word = article.expand_word
+            spider.extract_detail_page(detail_page_url=detail_url, expand_word=expand_word)
+            article.update(set__status=1)
+        except Exception,e:
+            spider.logger.error('Error: %s' % unicode(e))
+            article.update(set__status=2)
+            continue
 
 
 
 if __name__ == '__main__':
 
-    main()
+    # main()
+    crawl_detail_page()
+
+
+def fix_file(file, new_file_name):
+    import codecs
+    lines = codecs.open(file,'r' ,encoding='utf-8').readlines()
+    with codecs.open(new_file_name,'w',encoding='utf-8') as f:
+        for line in lines:
+            line_split = line.split('\t')
+            new_line = '%s  %s' % (line_split[0].strip(), str(int(line_split[0].strip() + 1)))
+            f.write(new_line)

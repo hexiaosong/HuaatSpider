@@ -96,3 +96,40 @@ class SouguoArticle(Document):
             return True
         else:
             return False
+
+
+
+class SouguoArticleUrl(Document):
+
+    STATUS_CHOICES = [
+        (0, '未爬取'),
+        (1, '已爬取'),
+        (2, '链接失效')
+    ]
+
+    add_time = DateTimeField(
+        db_field='createtime',
+        default=datetime.datetime.now,
+        verbose_name='爬取时间',
+    )
+    expand_word = StringField(required=False, verbose_name='扩展词')
+    title = StringField(required=False, verbose_name='文章标题')
+    winxin_ch_name = StringField(required=False, verbose_name='微信中文名')
+    publish_date = StringField(required=False, verbose_name='文章发表日期')
+    url = StringField(required=False, verbose_name='文章链接')
+    status = IntField(default=0, choices=STATUS_CHOICES, verbose_name='爬取状态')
+    meta = {
+        'db_alias': "HuaatSpiders",
+        "collection": "SouguoArticleUrl",
+        'strict': False,
+        'index_background': True,
+        "indexes": [
+            "-add_time",
+            "url",
+            "winxin_ch_name",
+            "status",
+        ]
+    }
+    def __unicode__(self):
+        return u'<SouguoArticleUrl {} {} {} {}>'.format(self.id, self.title, self.winxin_ch_name, self.publish_date)
+
