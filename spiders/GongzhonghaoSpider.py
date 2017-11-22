@@ -7,7 +7,6 @@ Create on 2017-09-27
 
 from __future__ import  unicode_literals
 
-import datetime
 import codecs
 import random
 from collections import OrderedDict

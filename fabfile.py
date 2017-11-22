@@ -16,7 +16,7 @@ from utils.common import yesterday_date
 WINXIN_DATA_DIR = '{}/data/articles'.format(PROJECT_ROOT)
 env.hosts = ['106.75.85.39',]
 env.user = 'hive'
-env.password = 'AUX8WOlQGDb3uLyfMfe4'
+env.password = ''
 env.port=5123
 env.winxin_data_dir='/data/hive_home/winxin_data'
 
