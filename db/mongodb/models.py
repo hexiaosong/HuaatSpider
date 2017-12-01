@@ -133,3 +133,46 @@ class SouguoArticleUrl(Document):
     def __unicode__(self):
         return u'<SouguoArticleUrl {} {} {} {}>'.format(self.id, self.title, self.winxin_ch_name, self.publish_date)
 
+
+class JDvisitedUrl(Document):
+    add_time = DateTimeField(
+        db_field='createtime',
+        default=datetime.datetime.now,
+        verbose_name='爬取时间',
+    )
+    url = StringField(default='', required=False, verbose_name='已爬取url')
+    version = StringField(default='', required=False, verbose_name='爬取版本')
+    meta = {
+        'db_alias': "default",
+        'name': "HuaatSpiders",
+        "collection": "visitedUrlAnother",
+        'strict': False,
+        "indexes": [
+            "add_time",
+            "url",
+            "version",
+        ]
+    }
+
+
+class JDeCommerceSpider(Document):
+    add_time = DateTimeField(
+        db_field='createtime',
+        default=datetime.datetime.now,
+        verbose_name='爬取时间',
+    )
+    platform = StringField(default='', required=False, verbose_name='爬取平台')
+    url = StringField(default='', required=False, verbose_name='爬取url')
+    version = StringField(default='', required=False, verbose_name='爬取版本')
+    hive_str = StringField(default='', required=False, verbose_name='爬取版本')
+    meta = {
+        'db_alias': "HuaatSpiders",
+        "collection": "eCommerceSpiderAnother",
+        'strict': False,
+        "indexes": [
+            "-add_time",
+            "platform",
+            "url",
+            "version",
+        ]
+    }

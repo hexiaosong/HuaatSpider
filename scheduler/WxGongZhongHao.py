@@ -16,8 +16,7 @@ from spiders import PROJECT_ROOT
 sched = BlockingScheduler()
 
 
-# @sched.scheduled_job('interval', hours=6)
-@sched.scheduled_job('interval', minutes=1)
+@sched.scheduled_job('interval', hours=6)
 def cron_upload_wx_spider():
     date = yesterday_date()
     print 'yesterday is %s' % date

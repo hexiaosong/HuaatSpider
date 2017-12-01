@@ -9,7 +9,10 @@ import time
 import re
 import datetime
 import requests
+import redis
+import urlparse
 from bson import json_util
+from settings.settings_local import REDIS_CACHE_URL
 
 
 def time_deco(func):
@@ -53,6 +56,76 @@ def test_proxy(host=None,port=None, is_proxy=False):
         print('no response')
     end = time.time()
     print('Costs time %f' % (end-start))
+
+
+def connect_redis(uri):
+    puri = urlparse.urlparse(uri)
+    host = puri.hostname
+    port = puri.port
+    password = puri.password if puri.password else ''
+    db_name = puri.path.split('/')[1]
+    conn_pool = redis.ConnectionPool(host=host, port=port, password=password, db=db_name)
+    return redis.Redis(connection_pool=conn_pool)
+
+
+
+class Cache(object):
+    """
+    redis缓存
+    """
+    def __init__(self, uri=None):
+        self.uri = uri if uri else REDIS_CACHE_URL
+        self.connection = connect_redis(self.uri)
+
+    def check_connect(self):
+        try:
+            return self.connection.ping()
+        except Exception as e:
+            return False
+
+    def get_pipe(self):
+        return self.connection.pipeline()
+
+    def get_keys(self):
+        return self.connection.keys()
+
+    def delete_key(self, key):
+        self.connection.delete(key)
+
+    def set_push(self, key, value):
+        self.connection.sadd(key, value)
+
+    def exist_in_set(self, key, value):
+        return self.connection.sismember(key, value)
+
+    def set_pop(self, key):
+        value = self.connection.spop(key)
+        if value:
+            return value
+        else:
+            return None
+
+    def get_set_num(self, key):
+        return self.connection.scard(key)
+
+    def list_push(self, key, *values):
+        pipe = self.get_pipe()
+        for value in values:
+            pipe.rpush(key, value)
+        return pipe.execute()
+
+    def list_push_by_one(self, key, value):
+        self.connection.rpush(key, value)
+
+    def list_lpop(self, key):
+        value = self.connection.blpop(key, timeout=3)
+        if value:
+            return value[1]
+        else:
+            return None
+
+    def get_list_num(self, key):
+        return self.connection.llen(key)
 
 
 if __name__ == '__main__':
