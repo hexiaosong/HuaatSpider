@@ -7,31 +7,18 @@ Create on 2017/11/23
 
 from __future__ import unicode_literals
 
-import os
 import re
 import time
 import random
-import socket
 import urllib2
 from spiders import logging as logger
 from utils.common import jprint
 from splinter import Browser
 from lxml import etree
-from JD_app import app
+from selenium.webdriver.chrome.options import Options
+from app import app
 from db.mongodb.models import (JDvisitedUrl, JDeCommerceSpider)
-
-user_agents = [
-    'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 BIDUBrowser/6.x Safari/537.31',
-    'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.44 Safari/537.36 OPR/24.0.1558.25 (Edition Next)',
-    'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36 OPR/23.0.1522.60 (Edition Campaign 54)',
-    'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36',
-    'Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19',
-    'Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3',
-    'Mozilla/5.0 (iPod; U; CPU like Mac OS X; en) AppleWebKit/420.1 (KHTML, like Gecko) Version/3.0 Mobile/3A101a Safari/419.3',
-    'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0',
-]
+from data.agents import user_agents
 
 
 class JDSpiderAnother():
@@ -40,7 +27,7 @@ class JDSpiderAnother():
 
     ele_xpath_dict = {
         'prd_name': '//div[contains(@class,"p-name")]/a/em/text()',
-        'prd_id': '//a[@class="J_focus"]/@data-sku',
+        'prd_id': '//a[contains(@class,"J_focus")]/@data-sku',
         'price': '//div[@class="p-price"]/strong/i/text()',
         'prd_href': '//div[contains(@class,"p-name")]/a/@href',
     }
@@ -78,8 +65,7 @@ class JDSpiderAnother():
         else:
             url_tmp = "http:" + url
         req = urllib2.Request(url_tmp, headers=headers)
-
-        response = urllib2.urlopen(req)
+        response = urllib2.urlopen(req, timeout=60)
         html = response.read()
         response.close()
 
@@ -101,14 +87,32 @@ class JDSpiderAnother():
 
         branch = {"branch_name":'', "branch_id":''}
         inner_html = self.openurl(prd_href)
-        inner_html = inner_html.decode('gb18030')
+        count = 0
+        while not inner_html and count<3:
+            time.sleep(2)
+        try:
+            inner_html = inner_html.decode('gb18030', 'ignore')
+        except Exception as e:
+                pass
 
         base_xpath = '//div[@class="crumb fl clearfix"]//a[contains(@href,"ev=exbrand")]/'
         detail_page_tree = etree.HTML(inner_html)
         branch["branch_name"] = self.find_by_xpath(detail_page_tree, base_xpath+ 'text()')
         branch_id_tmp = self.find_by_xpath(detail_page_tree, base_xpath+ '@href')
         if branch_id_tmp:
-            branch["branch_id"] = re.search('ev=exbrand_(\d+)', branch_id_tmp).group(1)
+            id_tmp = re.search('ev=exbrand_(\d+)', branch_id_tmp)
+            if id_tmp:
+                branch["branch_id"] = id_tmp.group(1)
+
+        if not branch["branch_id"]:
+            tmp = re.search('ecomm_pbrand:(\d+)', inner_html)
+            if tmp:
+                branch["branch_id"] = tmp.group(1)
+
+        if not branch["branch_name"]:
+            branch["branch_name"] = self.find_by_xpath(detail_page_tree, '//div[contains(@class,"ellipsis")]/text()')
+            if branch["branch_name"]:
+                tmp = re.search('product|mbNav-4">\s*(\S+)\s*</a>', inner_html)
 
         return branch
 
@@ -118,6 +122,8 @@ class JDSpiderAnother():
 
         if not JDvisitedUrl.objects.filter(url=self.url, version=self.version):
             self.browser.visit(self.url, 90)
+            if '加油！您和宝贝只有一个验证码的距离啦！' in self.browser.html:
+                self.browser.find_by_xpath('//a[@class="ui-dialog-close"]').click()
         else:
             logger.info('此url:{}已经访问过了！'.format(self.url))
             return
@@ -157,30 +163,36 @@ class JDSpiderAnother():
                 prd_list = self.browser.find_by_xpath(good_xpath)
                 if prd_list:
                     for index, prd in enumerate(prd_list):
-                        d = {}
-                        ele_tree = etree.HTML(prd.html)
-                        for k, v in self.ele_xpath_dict.items():
-                            d[k] = self.find_by_xpath(ele_tree, v)
-                        logger.info(jprint(d))
+                        try:
+                            d = {}
+                            ele_tree = etree.HTML(prd.html)
+                            for k, v in self.ele_xpath_dict.items():
+                                d[k] = self.find_by_xpath(ele_tree, v)
+                            logger.info(jprint(d))
 
-                        prd_href = d.get('prd_href','')
-                        branch = {"branch_name": '', "branch_id": ''}
-                        if prd_href:
-                            branch = self.get_branch_info(prd_href)
+                            prd_href = d.get('prd_href','')
+                            branch = {"branch_name": '', "branch_id": ''}
+                            if prd_href:
+                                branch = self.get_branch_info(prd_href)
+                                if not branch['branch_name'] and not branch['branch_id']:
+                                    branch = self.get_branch_info(prd_href)
+                                logger.info(jprint(branch))
 
-                        hive_str = "1\t{cates}\t{branch_id}\t{branch_name}\t{prd_id}\t{prd_name}\t{price}".format(
-                            cates=self.cates,
-                            branch_id=branch.get('branch_id', ''),
-                            branch_name=branch.get('branch_name', ''),
-                            prd_id=d.get('prd_id', ''),
-                            prd_name=d.get('prd_name', ''),
-                            price=d.get('price', '')
-                        )
-                        db_item = JDeCommerceSpider(platform=self.name, url=url,
-                                                  version=self.version, hive_str=hive_str)
-                        if not JDeCommerceSpider.objects.filter(platform=self.name, url=url,
-                                                              version=self.version, hive_str=hive_str):
+                            hive_str = "1\t{cates}\t{branch_id}\t{branch_name}\t{prd_id}\t{prd_name}\t{price}".format(
+                                cates=self.cates,
+                                branch_id=branch.get('branch_id', ''),
+                                branch_name=branch.get('branch_name', ''),
+                                prd_id=d.get('prd_id', ''),
+                                prd_name=d.get('prd_name', ''),
+                                price=d.get('price', '')
+                            )
+                            db_item = JDeCommerceSpider(platform=self.name, url=url,
+                                                      version=self.version, hive_str=hive_str)
+                            #if not JDeCommerceSpider.objects.filter(platform=self.name, url=url,
+                            #                                      version=self.version, hive_str=hive_str):
                             db_item.save()
+                        except Exception,e:
+                            logger.error(str(e))
                 if not JDvisitedUrl.objects.filter(url=url, version=self.version):
                     JDvisitedUrl(url=url, version=self.version).save()
             else:
@@ -191,9 +203,14 @@ class JDSpiderAnother():
 
 
 @app.task(name='jd_spider', queue='jd_spider')
-def jd_spider(data):
+def jd_spider(data, is_headless=False):
     logger.info("func get args: %s" % data)
-    b = Browser('chrome')
+    if is_headless:
+        chrome_options = Options()
+        chrome_options.add_argument('--headless')
+        b = Browser('chrome',options = chrome_options)
+    else:
+        b = Browser('chrome')
     try:
         spider = JDSpiderAnother(cate_page_url=data.get('cate_page_url'),
                                 cates=data.get('cates'),

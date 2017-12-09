@@ -1,0 +1,1754 @@
+list.suning.com/0-186005.html:外设/办公/电脑	20529	DIY硬件	186005	电源
+list.suning.com/0-262542.html:图书		传记	262542	社会百相
+list.suning.com/0-500445.html:酒水饮料/食品保健		饮料饮品	500445	茶饮料
+list.suning.com/0-157514.html:外设/办公/电脑	157237	电脑外设	157514	外壳保护膜
+list.suning.com/0-500469.html:酒水饮料/食品保健		冲调饮品	500469	可可/巧克力冲饮
+list.suning.com/0-262791.html:图书	262519-0	医学	262791	其他临床医学
+list.suning.com/0-262632.html:图书	262525-0	家居/休闲游戏	262632	宠物
+list.suning.com/0-336005.html:配件/数码/手机	20103	电子教育	336005	学习机
+list.suning.com/0-424505.html:家装建材/厨具/家具	423507	布艺软饰	424505	餐桌布艺
+list.suning.com/0-263536.html:图书		法律	263536	大众法律知识读物
+list.suning.com/0-420506.html:运动户外		运动鞋	420506	帆布鞋
+list.suning.com/0-420584.html:运动户外	420008	户外鞋服	420584	羽绒衣裤
+list.suning.com/0-431506.html:大家电	431504	空调	431506	商用空调
+list.suning.com/0-20390-0.html:大家电		厨卫/生活电器	20390-0	吸尘器
+list.suning.com/0-263529.html:图书		法律	263529	法律文书
+list.suning.com/0-263018.html:图书	262523-0	体育/运动	263018	武术/气功
+list.suning.com/0-420534.html:运动户外	420005	运动服	420534	健身服
+list.suning.com/0-336027.html:美妆	315685	美妆工具	336027	微针滚轮
+list.suning.com/0-264285.html:图书	262518-0	美食	264285	保健食谱营养
+list.suning.com/0-263054.html:图书	262521-0	外语	263054	英语综合教程
+list.suning.com/0-262922.html:图书	262522-0	中小学教辅	262922	英语口语/听力
+list.suning.com/0-346872.html:服装鞋帽		男装	346872	男士牛仔裤
+list.suning.com/0-157131.html:外设/办公/电脑	157123	办公打印	157131	碎纸机
+list.suning.com/0-344270.html:汽车用品	343508	电子/电器	344270	车载吸尘器
+app.suning.com/topiclist.php:彩票/旅行/充值/游戏		手机应用		精选专题
+list.suning.com/0-340558.html:服装鞋帽	340548	男鞋	340558	休闲鞋
+list.suning.com/0-344328.html:汽车用品	344251	系统养护	344328	机油添加剂
+list.suning.com/0-500506.html:酒水饮料/食品保健		休闲食品	500506	巧克力
+list.suning.com/0-177501-0.html:外设/办公/电脑	337020	存储设备	177501-0	读卡器
+list.suning.com/0-263532.html:图书		法律	263532	法律工具书
+list.suning.com/0-344355.html:汽车用品	344254	个性改装	344355	车牌架
+list.suning.com/0-157172.html:外设/办公/电脑		音像制品	157172	卡带
+list.suning.com/0-263035.html:图书	262523-0	体育/运动	263035	规则裁判
+list.suning.com/0-264306.html:图书		少儿	264306	中国儿童文学
+list.suning.com/0-20102.html:配件/数码/手机		电玩游戏	20102	游戏外设
+list.suning.com/0-420066.html:运动户外	420007	体育休闲	420066	网球
+list.suning.com/0-500520.html:酒水饮料/食品保健		休闲食品	500520	蜜饯/果脯
+list.suning.com/0-420021.html:运动户外	420009	户外装备	420021	野餐炊具
+list.suning.com/0-262859.html:图书		孕产妇/育儿	262859	孕产妇健康
+list.suning.com/0-263276.html:图书	262526-0	经济	263276	保险学
+list.suning.com/0-500432.html:酒水饮料/食品保健		营养保健	500432	珍珠粉
+list.suning.com/0-420543.html:运动户外	420006	运动包/户外包/配件	420543	手套
+list.suning.com/0-264384.html:图书	264010-0	社会科学	264384	新闻传播出版
+list.suning.com/0-344366.html:汽车用品	344255	安全/自驾	344366	保温箱
+list.suning.com/0-262684.html:图书		小说	262684	军事小说
+list.suning.com/0-264049.html:图书	262515-0	建筑	264049	建筑史与建筑文化
+list.suning.com/0-315691.html:美妆	315679	面部底妆	315691	散粉
+list.suning.com/0-500439.html:酒水饮料/食品保健	500364	米面粮油	500439	面粉
+list.suning.com/0-500676.html:配件/数码/手机	20016	手机配件	500676	自拍杆
+list.suning.com/0-344287.html:汽车用品		坐垫/脚垫	344287	凉垫
+list.suning.com/0-264281.html:图书	262518-0	美食	264281	酒饮品
+list.suning.com/0-392003.html:母婴		童装童鞋	392003	童装
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-22761.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-22761	老人手机
+list.suning.com/0-157161.html:外设/办公/电脑		网络设备	157161	网卡
+list.suning.com/0-500553.html:家装建材/厨具/家具		宠物生活	500553	宠物主食
+list.suning.com/0-420015.html:运动户外	420009	户外装备	420015	户外包
+list.suning.com/0-420564.html:运动户外		健身器材	420564	跳绳
+list.suning.com/0-425011.html:家装建材/厨具/家具	423507	布艺软饰	425011	抱枕靠垫
+list.suning.com/0-344269.html:汽车用品	343508	电子/电器	344269	充气泵
+list.suning.com/0-346879.html:服装鞋帽		女装	346879	女士休闲裤
+list.suning.com/0-420023.html:运动户外	420009	户外装备	420023	登山攀岩
+list.suning.com/0-92515.html:生活电器/厨卫电器	20359	个护健康	92515	健康秤/厨房秤
+list.suning.com/0-460503.html:家装建材/厨具/家具		生活日用	460503	礼品包装
+list.suning.com/0-500527.html:酒水饮料/食品保健	500367	方便速食	500527	方便饭
+list.suning.com/0-500505.html:酒水饮料/食品保健	500366	南北干货	500505	海带/笋干/紫菜
+list.suning.com/0-500497.html:酒水饮料/食品保健		食品票券	500497	大闸蟹券
+search.suning.com/%E8%BF%9E%E4%BD%93%E8%A3%A4/cityId={cityId}&ci=161007:服装鞋帽		女装	340584	连体裤
+list.suning.com/0-500479.html:酒水饮料/食品保健	500370	牛奶乳品	500479	酸奶
+list.suning.com/0-344337.html:汽车用品		汽车配件	344337	雨刮/雨刷
+list.suning.com/0-318010.html:图书		童书馆	318010	家教方法
+list.suning.com/0-186002.html:外设/办公/电脑	20529	DIY硬件	186002	显卡
+list.suning.com/0-500318.html:配件/数码/手机		摄影摄像	500318	运动摄像机
+list.suning.com/0-262707.html:图书	262519-0	医学	262707	医学/药学考试
+list.suning.com/0-500028.html:外设/办公/电脑	157123	办公打印	500028	投影幕布
+list.suning.com/0-344303.html:汽车用品		坐垫/脚垫	344303	通用座套
+list.suning.com/0-264016.html:图书	262515-0	建筑	264016	执业资格考试用书
+8.suning.com/p3/:彩票/旅行/充值/游戏		彩票		排列三
+list.suning.com/0-264392.html:图书	264010-0	社会科学	264392	教育
+list.suning.com/0-265005.html:图书	262512-0	工业技术	265005	冶金工业
+list.suning.com/0-263005.html:图书	264009-0	收藏/鉴赏	263005	书画
+list.suning.com/0-263583.html:图书	262528-0	管理	263583	创业企业与企业家
+list.suning.com/0-420045.html:运动户外		骑行装备	420045	自行车配件
+list.suning.com/0-262865.html:图书		孕产妇/育儿	262865	儿童营养饮食
+list.suning.com/0-346882.html:服装鞋帽		女装	346882	女士羽绒服
+list.suning.com/0-263068.html:图书	262521-0	外语	263068	英语考试
+list.suning.com/0-262538.html:图书		传记	262538	文娱明星
+list.suning.com/0-20373.html:生活电器/厨卫电器	20366	生活小家电	20373	电热毯
+list.suning.com/0-264266.html:图书	262516-0	美丽装扮	264266	魅力女人
+list.suning.com/0-263418.html:图书		计算机/网络	263418	管理信息系统(MIS)
+list.suning.com/0-233005.html:服装鞋帽	233003	内衣	233005	女士内裤
+list.suning.com/0-500138.html:家装建材/厨具/家具		生活日用	500138	园艺用品
+list.suning.com/0-500556.html:家装建材/厨具/家具		宠物生活	500556	宠物保健
+list.suning.com/0-235005.html:外设/办公/电脑		办公文仪	235005	办公文具
+list.suning.com/0-339008.html:大家电	243504	冰箱/冷柜	339008	酒柜
+list.suning.com/0-420571.html:运动户外	420008	户外鞋服	420571	风衣
+list.suning.com/0-500598.html:家装建材/厨具/家具		生活用纸	500598	湿厕纸
+list.suning.com/0-344276.html:汽车用品	343508	电子/电器	344276	电子防盗
+list.suning.com/0-235010.html:外设/办公/电脑	157123	办公打印	235010	投影附件
+list.suning.com/0-337513.html:生活电器/厨卫电器	20359	个护健康	337513	鼻毛修剪器
+list.suning.com/0-321005.html:图书		童书馆	321005	认知挂图
+list.suning.com/0-263169.html:图书		文化	263169	世界文化
+list.suning.com/0-263523.html:图书		法律	263523	劳动与社会保障法
+list.suning.com/0-500675.html:配件/数码/手机	20016	手机配件	500675	创意配件2
+list.suning.com/0-315552.html:母婴		图书	315552	音像制品
+list.suning.com/0-263163.html:图书	262521-0	外语	263163	其他小语种
+list.suning.com/0-340573.html:服装鞋帽	340557	女鞋	340573	休闲鞋
+list.suning.com/0-338006.html:生活电器/厨卫电器	20320	厨卫大家电	338006	燃气烤炉
+list.suning.com/0-20093.html:配件/数码/手机	20090	影音电子	20093	移动电视
+list.suning.com/0-448503.html:配件/数码/手机		运营商	448503	移动4G换卡
+list.suning.com/0-500539.html:酒水饮料/食品保健		生鲜食品	500539	冰淇淋
+list.suning.com/0-343505.html:家装建材/厨具/家具	161645	家纺	343505	地毯地垫
+list.suning.com/0-420048.html:运动户外		垂钓用品	420048	鱼饵
+8.suning.com/jqc/:彩票/旅行/充值/游戏		彩票		足彩进球彩
+list.suning.com/0-313108-0.html:母婴		尿裤/湿巾	313108-0	湿巾
+list.suning.com/0-500415.html:酒水饮料/食品保健		营养保健	500415	燕窝
+list.suning.com/0-262556.html:图书	262514-0	大众健康	262556	性保健
+channel.suning.com/peijian.html:配件/数码/手机	20016	手机配件	336523	配件频道
+list.suning.com/0-500468.html:酒水饮料/食品保健		冲调饮品	500468	姜茶类
+list.suning.com/0-262918.html:图书	262522-0	中小学教辅	262918	语文阅读
+list.suning.com/0-340033.html:珠宝/钟表/礼品		乐器	340033	乐器配件
+/www.suning.com/emall/SNBookCardWelcomeView?storeId=10052&catalogId=10051:彩票/旅行/充值/游戏		礼品卡		图书礼品卡
+list.suning.com/0-344364.html:汽车用品	344255	安全/自驾	344364	自驾野营
+list.suning.com/0-263044.html:图书		投资理财	263044	期货
+list.suning.com/0-316054.html:美妆	315686	甲油卸甲	316054	指甲油
+list.suning.com/0-337515.html:生活电器/厨卫电器	20359	个护健康	337515	电子血压计
+list.suning.com/0-328003.html:配件/数码/手机		摄影摄像	328003	户外器材
+list.suning.com/0-262621.html:图书		家庭教育	262621	报考/留学
+list.suning.com/0-337518.html:生活电器/厨卫电器	20359	个护健康	337518	其它测疗小电器
+list.suning.com/0-226809.html:家装建材/厨具/家具	251027	餐厨用具	226809	厨房小工具
+list.suning.com/0-20335.html:生活电器/厨卫电器		厨房小家电	20335	面包机/多士炉
+list.suning.com/0-420577.html:运动户外	420008	户外鞋服	420577	越野跑鞋
+list.suning.com/0-232003.html:配件/数码/手机	20090	影音电子	232003	耳机/耳麦
+list.suning.com/0-289011.html:服装鞋帽		男装	289011	男士马甲
+list.suning.com/0-294004.html:配件/数码/手机		运营商	294004	购机送费
+list.suning.com/0-263142.html:图书	262521-0	外语	263142	俄罗斯语
+list.suning.com/0-346873.html:服装鞋帽		男装	346873	男士夹克
+list.suning.com/0-326003.html:配件/数码/手机		运营商	326003	选号入网
+list.suning.com/0-315006.html:母婴		海外直通车	315006	营养保健
+list.suning.com/0-420586.html:运动户外	420008	户外鞋服	420586	滑雪衣/裤
+list.suning.com/0-264239.html:图书		旅游	264239	旅游摄影/画册
+list.suning.com/0-500691.html:大家电	293006	电视	500691	大屏体验
+list.suning.com/0-316052.html:美妆	315686	甲油卸甲	316052	洗甲水
+list.suning.com/0-342012.html:家装建材/厨具/家具	180501	成人用品	342012	情趣家具
+list.suning.com/0-262563.html:图书	262520-0	地图/地理	262563	专题地图
+list.suning.com/0-25001.html:配件/数码/手机	20090	影音电子	25001	数码相框
+list.suning.com/0-500464.html:酒水饮料/食品保健		冲调饮品	500464	芝麻糊 
+list.suning.com/0-263326.html:图书		科普	263326	气象
+list.suning.com/0-500411.html:酒水饮料/食品保健		营养保健	500411	灵芝
+list.suning.com/0-344302.html:汽车用品		坐垫/脚垫	344302	专车专用座套
+list.suning.com/0-262537.html:图书		传记	262537	学者
+list.suning.com/0-25502.html:配件/数码/手机	20103	电子教育	25502	复读机
+8.suning.com/r9/:彩票/旅行/充值/游戏		彩票		足彩任选九
+list.suning.com/0-500421.html:酒水饮料/食品保健		营养保健	500421	冬虫夏草
+list.suning.com/0-313127.html:母婴		玩具	313127	娃娃
+list.suning.com/0-264317.html:图书		少儿	264317	科普/百科
+list.suning.com/0-264277.html:图书	262518-0	美食	264277	饮食文化
+list.suning.com/0-20096.html:配件/数码/手机	20090	影音电子	20096	收音/收录机
+list.suning.com/0-263124.html:图书	262521-0	外语	263124	口语、生活实用英语
+list.suning.com/0-262615.html:图书	262529-0	工具书	262615	其他语种工具书
+list.suning.com/0-318011.html:图书		童书馆	318011	胎教/优生
+list.suning.com/0-263521.html:图书		法律	263521	商法
+list.suning.com/0-315696.html:美妆		眉部	315696	眉笔
+list.suning.com/0-180502.html:家装建材/厨具/家具	180501	成人用品	180502	安全避孕
+list.suning.com/0-235006.html:外设/办公/电脑		办公文仪	235006	文件管理
+list.suning.com/0-20105.html:配件/数码/手机	20103	电子教育	20105	学生电脑
+list.suning.com/0-344371.html:汽车用品	344257	整车/服务	344371	汽车租赁
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-30394.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-30394	WP8
+list.suning.com/0-420061.html:运动户外	420007	体育休闲	420061	篮球
+list.suning.com/0-313128.html:母婴		玩具	313128	积木拼插
+list.suning.com/0-340597.html:服装鞋帽	164010	配饰	340597	背带
+list.suning.com/0-344284.html:汽车用品	343508	电子/电器	344284	车载生活电器
+list.suning.com/0-20329-0.html:大家电		厨卫/生活电器	20329-0	电饭煲
+list.suning.com/0-424504.html:家装建材/厨具/家具	423507	布艺软饰	424504	防尘罩
+shouji.suning.com/:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-23152	手机频道
+list.suning.com/0-20370.html:生活电器/厨卫电器	20366	生活小家电	20370	取暖电器
+list.suning.com/0-315637.html:母婴	315560-0	百万孕妈专区	315637	妈咪孕产用品
+list.suning.com/0-500560.html:家装建材/厨具/家具		宠物生活	500560	宠物洗护美容
+list.suning.com/0-263517.html:图书		法律	263517	外国法律
+list.suning.com/0-264308.html:图书		少儿	264308	幼儿启蒙
+list.suning.com/0-20368-0.html:大家电		厨卫/生活电器	20368-0	电风扇
+list.suning.com/0-341020.html:家装建材/厨具/家具	32002	家装建材	341020	插座
+list.suning.com/0-264293.html:图书	262517-0	农业/林业	264293	农业工程
+list.suning.com/0-20363.html:生活电器/厨卫电器	20359	个护健康	20363	电动牙刷/冲牙器
+list.suning.com/0-500518.html:酒水饮料/食品保健		休闲食品	500518	糕点/点心
+list.suning.com/0-20055.html:外设/办公/电脑	157123	办公打印	20055	电话机
+list.suning.com/0-340554.html:服装鞋帽	233003	内衣	340554	女士打底袜
+list.suning.com/0-420530.html:运动户外	420005	运动服	420530	棒球夹克
+list.suning.com/0-337519.html:生活电器/厨卫电器	20359	个护健康	337519	其它健康电器
+list.suning.com/0-263416.html:图书		计算机/网络	263416	计算机考试认证
+list.suning.com/0-287504.html:外设/办公/电脑	157237	电脑外设	287504	Surface电脑配件
+list.suning.com/0-420051.html:运动户外		垂钓用品	420051	浮漂
+list.suning.com/0-420535.html:运动户外	420005	运动服	420535	运动风衣
+list.suning.com/0-341019.html:家装建材/厨具/家具	32002	家装建材	341019	开关
+list.suning.com/0-262925.html:图书	262522-0	中小学教辅	262925	学生工具书
+list.suning.com/0-172001.html:外设/办公/电脑	157237	电脑外设	172001	散热垫
+list.suning.com/0-218503-0.html:大家电		厨卫/生活电器	218503-0	浴霸/排气扇
+list.suning.com/0-344271.html:汽车用品	343508	电子/电器	344271	车载冷暖箱
+list.suning.com/0-420031.html:运动户外		骑行装备	420031	公路车
+list.suning.com/0-344298.html:箱包/皮具	344250	时尚女包	344298	女士手提包
+list.suning.com/0-157175.html:外设/办公/电脑		音像制品	157175	蓝光碟
+list.suning.com/0-264246.html:图书		旅游	264246	导游领队等专业用书
+list.suning.com/0-262875.html:图书		哲学/宗教	262875	哲学类教材
+list.suning.com/0-263526.html:图书		法律	263526	高等法律教材教辅
+list.suning.com/0-264318.html:图书		少儿	264318	动漫卡通
+list.suning.com/0-500517.html:酒水饮料/食品保健		休闲食品	500517	饼干
+list.suning.com/0-500400.html:酒水饮料/食品保健	500373	酒	500400	预调酒
+list.suning.com/0-420582.html:运动户外	420008	户外鞋服	420582	雪地靴
+list.suning.com/0-248003.html:家装建材/厨具/家具	161645	家纺	248003	毛巾被/毯
+list.suning.com/0-452003.html:配件/数码/手机		摄影摄像	452003	运动相机
+list.suning.com/0-340592.html:服装鞋帽	164010	配饰	340592	假领子
+list.suning.com/0-262996.html:图书	262522-0	中小学教辅	262996	高中通用
+list.suning.com/0-500545.html:家装建材/厨具/家具		清洁用品	500545	家庭清洁
+list.suning.com/0-344307.html:汽车用品		坐垫/脚垫	344307	通用后备箱垫
+list.suning.com/0-500669.html:大家电		苏宁帮客	500669	安装/拆机
+list.suning.com/0-20073.html:配件/数码/手机	20084	数码配件	20073	滤镜
+list.suning.com/0-315700.html:美妆		眼部	315700	睫毛增长液
+list.suning.com/0-167505.html:配件/数码/手机	20084	数码配件	167505	清洁工具
+list.suning.com/0-244008-0-0-0-0-0-0-0-0-45358.html:大家电	243504	冰箱/冷柜	244008-0-0-0-0-0-0-0-0-45358	冰吧
+list.suning.com/0-500595.html:家装建材/厨具/家具		生活用纸	500595	平板纸
+list.suning.com/0-344260.html:汽车用品	343508	电子/电器	344260	便携导航仪
+list.suning.com/0-264213.html:图书		励志与成功	264213	名人励志
+list.suning.com/0-500562.html:酒水饮料/食品保健		营养保健	500562	复合维生素
+list.suning.com/0-340565.html:服装鞋帽	340548	男鞋	340565	商务鞋
+list.suning.com/0-289010.html:服装鞋帽		男装	289010	男士棉衣
+list.suning.com/0-161727.html:家装建材/厨具/家具	161645	家纺	161727	枕头/枕套
+list.suning.com/0-263030.html:图书	262523-0	体育/运动	263030	排球
+list.suning.com/0-344274.html:汽车用品	343508	电子/电器	344274	倒车雷达
+list.suning.com/0-263331.html:图书		科普	263331	海洋生物
+list.suning.com/0-263034.html:图书	262523-0	体育/运动	263034	国际象棋
+8.suning.com/ssq/:彩票/旅行/充值/游戏		彩票		双色球
+list.suning.com/0-262661.html:图书		文学	262661	文集
+list.suning.com/0-313005.html:母婴		奶粉	313005	婴幼儿奶粉
+list.suning.com/0-420580.html:运动户外	420008	户外鞋服	420580	冲锋衣/裤
+list.suning.com/0-207504.html:家装建材/厨具/家具	161645	家纺	207504	床垫/床褥
+list.suning.com/0-289006.html:服装鞋帽		男装	289006	男士卫衣/帽衫
+list.suning.com/0-344267.html:箱包/皮具		功能箱包	344267	书包
+8.suning.com/bjdc/:彩票/旅行/充值/游戏		彩票		足球单场
+list.suning.com/0-262545.html:图书		传记	262545	历史人物
+list.suning.com/0-20360-0.html:大家电		厨卫/生活电器	20360-0	电动剃须刀
+list.suning.com/0-263004.html:图书	264009-0	收藏/鉴赏	263004	邮票
+8.suning.com/11x5/:彩票/旅行/充值/游戏		彩票		11选5
+list.suning.com/0-262714.html:图书	262519-0	医学	262714	医学/药学教材
+list.suning.com/0-420556.html:运动户外		健身器材	420556	甩脂机
+list.suning.com/0-337509.html:生活电器/厨卫电器		厨房小家电	337509	商用厨房小家电
+list.suning.com/0-20394-0.html:大家电		厨卫/生活电器	20394-0	空气净化器
+list.suning.com/0-344294.html:箱包/皮具	344248	精品男包	344294	皮具套装
+list.suning.com/0-420046.html:运动户外		骑行装备	420046	更多自行车整车
+list.suning.com/0-373026.html:图书	373005	人文社科	373026	宗教哲学馆
+list.suning.com/0-157239.html:外设/办公/电脑	157237	电脑外设	157239	USB外设
+list.suning.com/0-340569.html:服装鞋帽	340548	男鞋	340569	中式布鞋
+list.suning.com/0-249514.html:配件/数码/手机	20016	手机配件	249514	手机贴膜
+list.suning.com/0-500440.html:酒水饮料/食品保健		饮料饮品	500440	饮用水
+list.suning.com/0-157248.html:外设/办公/电脑	337020	存储设备	157248	U盘
+list.suning.com/0-157040.html:珠宝/钟表/礼品		乐器	157040	键盘乐器
+list.suning.com/0-263578.html:图书	262528-0	管理	263578	管理学外文原版/影印版
+list.suning.com/0-262923.html:图书	262522-0	中小学教辅	262923	英语词汇
+list.suning.com/0-500467.html:酒水饮料/食品保健		冲调饮品	500467	蜂蜜
+list.suning.com/0-264313.html:图书		少儿	264313	图画书
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-40398.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-40398	55-58英寸
+list.suning.com/0-420052.html:运动户外		垂钓用品	420052	钓鱼服
+list.suning.com/0-420056.html:运动户外		垂钓用品	420056	钓椅
+list.suning.com/0-235008.html:外设/办公/电脑		办公文仪	235008	财务用品
+list.suning.com/0-340572.html:服装鞋帽	340557	女鞋	340572	单鞋
+list.suning.com/0-336004.html:配件/数码/手机	20103	电子教育	336004	电子教材
+list.suning.com/0-500316.html:配件/数码/手机		摄影摄像	500316	航拍摄像
+list.suning.com/0-500532.html:酒水饮料/食品保健		生鲜食品	500532	熟食类
+list.suning.com/0-500416.html:酒水饮料/食品保健		营养保健	500416	石斛/枫斗
+list.suning.com/0-344299.html:箱包/皮具	344250	时尚女包	344299	女士手包
+list.suning.com/0-264296.html:图书	262517-0	农业/林业	264296	动物医学
+list.suning.com/0-157241.html:外设/办公/电脑	157237	电脑外设	157241	电脑包
+list.suning.com/0-500437.html:酒水饮料/食品保健	500364	米面粮油	500437	食用油
+list.suning.com/0-262991.html:图书	262522-0	中小学教辅	262991	高中一年级
+list.suning.com/0-420549.html:运动户外	420006	运动包/户外包/配件	420549	运动鼓包/旅行包
+list.suning.com/0-233504.html:配件/数码/手机	20090	影音电子	233504	iPod配件
+list.suning.com/0-344315.html:汽车用品		内饰精品	344315	遮阳用品/雪挡
+list.suning.com/0-289514.html:服装鞋帽		女装	289514	女士西服
+list.suning.com/0-315506.html:母婴		图书	315506	1-3岁
+list.suning.com/0-500444.html:酒水饮料/食品保健		饮料饮品	500444	含乳饮料
+list.suning.com/0-420019.html:运动户外	420009	户外装备	420019	望远镜
+list.suning.com/0-263013.html:图书	262523-0	体育/运动	263013	足球
+list.suning.com/0-420547.html:运动户外	420006	运动包/户外包/配件	420547	单肩背包
+list.suning.com/0-157127.html:外设/办公/电脑	157123	办公打印	157127	打印机
+list.suning.com/0-262561.html:图书	262514-0	大众健康	262561	健康百科
+list.suning.com/0-420033.html:运动户外		骑行装备	420033	通勤自行车
+list.suning.com/0-262836.html:图书		艺术	262836	设计
+list.suning.com/0-500519.html:酒水饮料/食品保健		休闲食品	500519	坚果
+list.suning.com/0-420555.html:运动户外		健身器材	420555	跑步机
+list.suning.com/0-340595.html:服装鞋帽	164010	配饰	340595	手帕
+list.suning.com/0-500379.html:酒水饮料/食品保健	500375	茶叶	500379	普洱茶
+list.suning.com/0-264208.html:图书		励志与成功	264208	情商/情绪管理
+list.suning.com/0-262732.html:图书	262519-0	医学	262732	药学
+list.suning.com/0-263167.html:图书		文化	263167	文化评述
+list.suning.com/0-315568.html:母婴	315560-0	百万孕妈专区	315568	孕妇服饰
+list.suning.com/0-500435.html:酒水饮料/食品保健	500364	米面粮油	500435	米面制品
+list.suning.com/0-233010.html:服装鞋帽	233003	内衣	233010	情趣内衣
+list.suning.com/0-500685.html:配件/数码/手机		智能设备	500685	虚拟现实
+list.suning.com/0-330010.html:美妆		卸妆	330010	卸妆液
+list.suning.com/0-420579.html:运动户外	420008	户外鞋服	420579	内衣/裤
+list.suning.com/0-500496.html:酒水饮料/食品保健		食品票券	500496	生鲜券
+list.suning.com/0-243505-0-0-0-0-0-0-0-0-10030.html:大家电	293006	电视	243505-0-0-0-0-0-0-0-0-10030	LG
+list.suning.com/0-315653.html:母婴	315560-0	百万孕妈专区	315653	妈咪外出用品
+list.suning.com/0-431505-0-0-0-0-0-0-0-0-125480.html:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-125480	1.5P空调
+list.suning.com/0-264295.html:图书	262517-0	农业/林业	264295	林业
+list.suning.com/0-263270.html:图书	262526-0	经济	263270	经济类考试
+list.suning.com/0-425003.html:家装建材/厨具/家具	423507	布艺软饰	425003	床品配件
+list.suning.com/0-420027.html:运动户外	420009	户外装备	420027	防护/救生装备
+list.suning.com/0-244014.html:大家电	244009-0	影音	244014	AV功放
+8.suning.com/dlt/:彩票/旅行/充值/游戏		彩票		大乐透
+list.suning.com/0-258006.html:外设/办公/电脑		电脑整机	258006	平板电脑
+list.suning.com/0-500511.html:酒水饮料/食品保健		休闲食品	500511	海味即食
+list.suning.com/0-340568.html:服装鞋帽	340548	男鞋	340568	特殊功能鞋
+list.suning.com/0-262857.html:图书		孕产妇/育儿	262857	早教指南
+list.suning.com/0-262906.html:图书	262522-0	中小学教辅	262906	中小学教师用书
+list.suning.com/0-500514.html:酒水饮料/食品保健		休闲食品	500514	膨化食品 
+list.suning.com/0-315667.html:母婴		玩具	315667	户外玩具
+list.suning.com/0-397003.html:外设/办公/电脑		电脑整机	397003	工作站
+list.suning.com/0-264236.html:图书		两性关系	264236	恋爱
+list.suning.com/0-420086.html:配件/数码/手机		智能设备	420086	体感车
+list.suning.com/0-500498.html:酒水饮料/食品保健	500366	南北干货	500498	黑木耳
+list.suning.com/0-23501.html:家装建材/厨具/家具	251027	餐厨用具	23501	烹饪锅具
+list.suning.com/0-315548.html:母婴		图书	315548	烹饪美食
+list.suning.com/0-373017.html:图书	373004	生活休闲	373017	美丽装扮馆
+list.suning.com/0-262930.html:图书	262522-0	中小学教辅	262930	写字教程
+list.suning.com/0-262806.html:图书		艺术	262806	音乐
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10149.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10149	康佳
+list.suning.com/0-313089.html:母婴		洗护用品	313089	洗涤用品
+list.suning.com/0-92526.html:生活电器/厨卫电器	20359	个护健康	92526	电动按摩椅/沙发
+list.suning.com/0-348008.html:母婴		尿裤/湿巾	348008	母婴专用纸
+list.suning.com/0-233009.html:服装鞋帽	233003	内衣	233009	家居服/睡衣
+list.suning.com/0-500529.html:酒水饮料/食品保健		生鲜食品	500529	水果
+list.suning.com/0-215006.html:家装建材/厨具/家具		生活日用	215006	净化除味
+list.suning.com/0-344275.html:箱包/皮具		功能箱包	344275	妈咪包
+list.suning.com/0-500589.html:大家电	293006	电视	500589	PPTV
+list.suning.com/0-263322.html:图书		科普	263322	植物
+list.suning.com/0-315056.html:母婴		童装童鞋	315056	童鞋
+list.suning.com/0-262657.html:图书		文学	262657	中国古诗词
+list.suning.com/0-263268.html:图书	262526-0	经济	263268	经济数学
+list.suning.com/0-420018.html:运动户外	420009	户外装备	420018	睡袋
+list.suning.com/0-373019.html:图书	373006	科技	373019	医学馆
+list.suning.com/0-337507.html:生活电器/厨卫电器		厨房小家电	337507	电陶炉/红外炉
+list.suning.com/0-264053.html:图书	262515-0	建筑	264053	工程经济与管理
+pindao.suning.com/city/caidian.htm:大家电	244009-0	影音	338024	影音频道
+list.suning.com/0-500032.html:服装鞋帽		女装	500032	半身裙
+list.suning.com/0-500478.html:酒水饮料/食品保健	500370	牛奶乳品	500478	纯牛奶
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10075.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10075	长虹
+list.suning.com/0-164028.html:服装鞋帽	164010	配饰	164028	袖扣
+list.suning.com/0-263515.html:图书		法律	263515	刑法
+list.suning.com/0-263324.html:图书		科普	263324	生态
+list.suning.com/0-262706.html:图书	262519-0	医学	262706	医学工具书
+list.suning.com/0-111502.html:配件/数码/手机		电玩游戏	111502	跳舞毯
+list.suning.com/0-500423.html:酒水饮料/食品保健		营养保健	500423	酵素
+list.suning.com/0-262921.html:图书	262522-0	中小学教辅	262921	英语语法
+list.suning.com/0-263530.html:图书		法律	263530	法律实务
+list.suning.com/0-262553.html:图书	262514-0	大众健康	262553	中老年
+list.suning.com/0-263264.html:图书	262526-0	经济	263264	贸易政策
+list.suning.com/0-315705.html:美妆		唇部	315705	唇蜜
+list.suning.com/0-262936.html:图书	262522-0	中小学教辅	262936	小学五年级
+list.suning.com/0-340584.html:服装鞋帽		女装	340584	短裤
+list.suning.com/0-318009.html:图书		童书馆	318009	孕产百科
+list.suning.com/0-262660.html:图书		文学	262660	文学理论
+list.suning.com/0-373027.html:图书	373005	人文社科	373027	文化馆
+list.suning.com/0-264134.html:图书	262524-0	教育考试	264134	其他类职称考试
+list.suning.com/0-264212.html:图书		励志与成功	264212	名言/格言
+list.suning.com/0-500410.html:酒水饮料/食品保健		营养保健	500410	螺旋藻
+list.suning.com/0-313041-0.html:母婴	315560-0	百万孕妈专区	313041-0	妈咪哺乳用品
+list.suning.com/0-20330.html:生活电器/厨卫电器		厨房小家电	20330	电压力锅
+list.suning.com/0-420068.html:运动户外	420007	体育休闲	420068	极限运动
+list.suning.com/0-336047.html:美妆	315685	美妆工具	336047	香薰工具
+list.suning.com/0-352503.html:服装鞋帽		女装	352503	雪纺衫
+list.suning.com/0-420521.html:运动户外	420005	运动服	420521	运动短裤
+list.suning.com/0-420538.html:运动户外	420006	运动包/户外包/配件	420538	运动袜
+list.suning.com/0-264174.html:图书		历史	264174	中国史
+list.suning.com/0-157130.html:外设/办公/电脑		办公文仪	157130	点验钞机
+list.suning.com/0-262546.html:图书		传记	262546	历代帝王
+list.suning.com/0-340559.html:服装鞋帽	340548	男鞋	340559	凉鞋/沙滩鞋
+list.suning.com/0-262560.html:图书	262514-0	大众健康	262560	健身
+list.suning.com/0-225503.html:外设/办公/电脑	20529	DIY硬件	225503	装机工具
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10011.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10011	三星
+list.suning.com/0-500427.html:酒水饮料/食品保健		营养保健	500427	胶原蛋白
+search.suning.com/%E7%94%B5%E8%84%91%E6%A1%8C/cityId=9173:外设/办公/电脑	157237	电脑外设		电脑桌
+list.suning.com/0-318004.html:图书		童书馆	318004	婴儿读物
+list.suning.com/0-264530.html:图书	262522-0	中小学教辅	264530	初中通用
+list.suning.com/0-338021.html:大家电	293006	电视	338021	背投影电视机
+list.suning.com/0-366503-0.html:母婴		尿裤/湿巾	366503-0	防尿用品
+channel.suning.com/shenghuodianqi.html:生活电器/厨卫电器		厨房小家电	337509	小家电频道
+list.suning.com/0-161729.html:家装建材/厨具/家具		清洁用品	161729	衣物洗护
+list.suning.com/0-264122.html:图书	262527-0	教材	264122	研究生/本科/专科教材
+list.suning.com/0-262630.html:图书	262525-0	家居/休闲游戏	262630	家庭园艺
+list.suning.com/0-500380.html:酒水饮料/食品保健	500375	茶叶	500380	绿茶
+list.suning.com/0-315710.html:美妆	315688	美妆套装	315710	美妆套装
+list.suning.com/0-264305.html:图书		青春文学	264305	其他青春文学
+list.suning.com/0-264207.html:图书		励志与成功	264207	人际交往
+list.suning.com/0-420069.html:运动户外	420007	体育休闲	420069	瑜伽用品
+list.suning.com/0-157246.html:外设/办公/电脑	157237	电脑外设	157246	键鼠套装
+list.suning.com/0-262817.html:图书		艺术	262817	艺术理论
+list.suning.com/0-289509.html:服装鞋帽		女装	289509	女士棉衣
+list.suning.com/0-423504.html:运动户外	420006	运动包/户外包/配件	423504	洗漱包/收纳包
+list.suning.com/0-263533.html:图书		法律	263533	法律法规
+list.suning.com/0-263421.html:图书		计算机/网络	263421	程序设计
+list.suning.com/0-330011.html:美妆		卸妆	330011	卸妆油
+list.suning.com/0-420574.html:运动户外	420008	户外鞋服	420574	休闲衣/裤
+list.suning.com/0-264287.html:图书	262517-0	农业/林业	264287	植物保护
+list.suning.com/0-373018.html:图书	373006	科技	373018	计算机馆
+list.suning.com/0-264280.html:图书	262518-0	美食	264280	烹饪理论/厨师手册
+list.suning.com/0-264210.html:图书		励志与成功	264210	女性励志
+list.suning.com/0-264507.html:图书	262522-0	中小学教辅	264507	高中三年级
+list.suning.com/0-262861.html:图书		孕产妇/育儿	262861	育儿百科
+list.suning.com/0-262658.html:图书		文学	262658	中国古代随笔
+list.suning.com/0-262616.html:图书		家庭教育	262616	心理辅导
+list.suning.com/0-262667.html:图书		小说	262667	中国近现代小说
+list.suning.com/0-425006.html:家装建材/厨具/家具	423507	布艺软饰	425006	窗帘/窗纱
+list.suning.com/0-262941.html:图书	262522-0	中小学教辅	262941	小学通用
+list.suning.com/0-500680.html:外设/办公/电脑	500678	游戏装备	500680	手柄/方向盘
+list.suning.com/0-420569.html:运动户外		健身器材	420569	更多大型健身器械
+list.suning.com/0-344338.html:汽车用品		汽车配件	344338	汽车照明
+list.suning.com/0-344351.html:汽车用品	344254	个性改装	344351	中网
+list.suning.com/0-262887.html:图书		政治/军事	262887	政治
+list.suning.com/0-420035.html:运动户外		骑行装备	420035	Segway/思维车
+list.suning.com/0-262564.html:图书	262520-0	地图/地理	262564	中国地图
+list.suning.com/0-157047.html:珠宝/钟表/礼品		乐器	157047	音箱
+list.suning.com/0-500443.html:酒水饮料/食品保健		饮料饮品	500443	植物蛋白饮料 
+list.suning.com/0-243003.html:配件/数码/手机		摄影摄像	243003	微单/单电
+list.suning.com/0-317060.html:母婴		玩具	317060	创意玩具
+8.suning.com/ssc/:彩票/旅行/充值/游戏		彩票		老时时彩
+list.suning.com/0-262568.html:图书	262520-0	地图/地理	262568	非洲地图
+list.suning.com/0-262683.html:图书		小说	262683	科幻
+list.suning.com/0-262876.html:图书		哲学/宗教	262876	哲学
+list.suning.com/0-346880.html:服装鞋帽		女装	346880	女士牛仔裤
+list.suning.com/0-344333.html:汽车用品		清洁美容	344333	漆面修复
+list.suning.com/0-24002.html:生活电器/厨卫电器		厨房小家电	24002	食品加工机/搅拌机
+list.suning.com/0-289008.html:服装鞋帽		男装	289008	男士大衣
+list.suning.com/0-315119.html:母婴		童车童床	315119	婴儿床椅
+list.suning.com/0-500554.html:家装建材/厨具/家具		宠物生活	500554	宠物
+list.suning.com/0-263514.html:图书	262525-0	家居/休闲游戏	263514	法律自助
+list.suning.com/0-500033.html:家装建材/厨具/家具		清洁用品	500033	湿巾纸
+list.suning.com/0-262548.html:图书		传记	262548	军事人物
+list.suning.com/0-178508.html:外设/办公/电脑		办公文仪	178508	办公用纸
+list.suning.com/0-262670.html:图书		小说	262670	职场
+list.suning.com/0-420059.html:运动户外		垂钓用品	420059	钓友装备
+list.suning.com/0-315118.html:母婴		童车童床	315118	婴儿车
+list.suning.com/0-337514.html:生活电器/厨卫电器	20359	个护健康	337514	血糖仪
+list.suning.com/0-313119.html:母婴		玩具	313119	婴幼玩具
+list.suning.com/0-262662.html:图书		文学	262662	外国随笔
+search.suning.com/%E7%94%B5%E4%BF%A1%E6%89%8B%E6%9C%BA/cityId={cityId}:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-30394	电信手机
+list.suning.com/0-340560.html:服装鞋帽	233003	内衣	340560	保暖内衣
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10028.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10028	索尼
+list.suning.com/0-259003.html:珠宝/钟表/礼品	161594	礼品	259003	创意礼品
+list.suning.com/0-289511.html:服装鞋帽		女装	289511	女士皮衣
+list.suning.com/0-390517.html:家装建材/厨具/家具	251027	餐厨用具	390517	咖啡器具
+list.suning.com/0-500503.html:酒水饮料/食品保健	500366	南北干货	500503	干货
+list.suning.com/0-262924.html:图书	262522-0	中小学教辅	262924	学习方法报考
+app.suning.com/softwarelist.php?gid=4:彩票/旅行/充值/游戏		手机应用		手机游戏
+list.suning.com/0-420515.html:运动户外		运动鞋	420515	棒球鞋
+list.suning.com/0-161557.html:家装建材/厨具/家具	160518	韩国馆	161557	厨具/料理
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-22313.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-22313	50-52英寸
+list.suning.com/0-420542.html:运动户外	420006	运动包/户外包/配件	420542	运动配饰
+list.suning.com/0-264217.html:图书		励志与成功	264217	口才/演讲/辩论
+list.suning.com/0-340032.html:珠宝/钟表/礼品		乐器	340032	管乐器
+list.suning.com/0-264319.html:图书		少儿	264319	7-10岁
+list.suning.com/0-500430.html:酒水饮料/食品保健		营养保健	500430	维生素C/E
+list.suning.com/0-344266.html:箱包/皮具		功能箱包	344266	腰包/胸包
+list.suning.com/0-318008.html:图书		童书馆	318008	幼儿启蒙
+list.suning.com/0-381003.html:图书	373006	科技	381003	自然科学馆
+list.suning.com/0-500597.html:家装建材/厨具/家具		生活用纸	500597	大盘纸
+list.suning.com/0-20329.html:生活电器/厨卫电器		厨房小家电	20329	电饭煲
+list.suning.com/0-366503.html:母婴		童装童鞋	366503	防尿用品
+list.suning.com/0-262620.html:图书		家庭教育	262620	成功案例
+pindao.suning.com/city/chuwei.htm:生活电器/厨卫电器	20320	厨卫大家电	380003	厨卫频道
+list.suning.com/0-264124.html:图书	262527-0	教材	264124	成人教育教材
+list.suning.com/0-289510.html:服装鞋帽		女装	289510	女士马甲
+list.suning.com/0-340025.html:珠宝/钟表/礼品	161594	礼品	340025	品牌打火机
+list.suning.com/0-500524.html:酒水饮料/食品保健	500367	方便速食	500524	罐头 
+list.suning.com/0-161577.html:家装建材/厨具/家具	160518	韩国馆	161577	婴幼用品/餐具
+list.suning.com/0-264206.html:图书		励志与成功	264206	人生哲学
+list.suning.com/0-500530.html:酒水饮料/食品保健		生鲜食品	500530	低温乳品
+list.suning.com/0-340564.html:服装鞋帽	233003	内衣	340564	男士情趣内衣
+list.suning.com/0-341021.html:家装建材/厨具/家具	32002	家装建材	341021	电线
+list.suning.com/0-378003.html:生活电器/厨卫电器	20320	厨卫大家电	378003	电热水龙头
+list.suning.com/0-213004.html:外设/办公/电脑		网络设备	213004	网络存储
+list.suning.com/0-263274.html:图书	262526-0	经济	263274	各部门经济
+list.suning.com/0-344336.html:汽车用品		清洁美容	344336	美容清洁工具
+list.suning.com/0-262570.html:图书	262520-0	地图/地理	262570	世界地图
+list.suning.com/0-164011.html:服装鞋帽	164010	配饰	164011	帽子
+list.suning.com/0-264038.html:图书	262515-0	建筑	264038	园林景观/环境艺术
+list.suning.com/0-500681.html:运动户外	420007	体育休闲	500681	足球门票
+list.suning.com/0-263164.html:图书		文化	263164	子
+list.suning.com/0-262656.html:图书		文学	262656	中国现当代诗歌
+list.suning.com/0-500523.html:酒水饮料/食品保健	500367	方便速食	500523	火腿肠
+list.suning.com/0-500431.html:酒水饮料/食品保健		营养保健	500431	越橘/蓝莓/叶黄素
+list.suning.com/0-264180.html:图书		历史	264180	历史教材考试用书
+list.suning.com/0-263043.html:图书		投资理财	263043	投资指南
+list.suning.com/0-263417.html:图书		计算机/网络	263417	计算机教材
+list.suning.com/0-336014.html:外设/办公/电脑	157123	办公打印	336014	绘图机
+list.suning.com/0-258011.html:外设/办公/电脑	20529	DIY硬件	258011	显示器
+list.suning.com/0-336017.html:外设/办公/电脑	157123	办公打印	336017	条码扫描/采集器材
+list.suning.com/0-344325.html:汽车用品		内饰精品	344325	其他内饰精品
+list.suning.com/0-262571.html:图书	262520-0	地图/地理	262571	国家（地区）概况
+list.suning.com/0-289505.html:服装鞋帽		女装	289505	女士卫衣/帽衫
+list.suning.com/0-420065.html:运动户外	420007	体育休闲	420065	乒乓球
+list.suning.com/0-500446.html:酒水饮料/食品保健		饮料饮品	500446	咖啡饮料
+list.suning.com/0-500507.html:酒水饮料/食品保健		休闲食品	500507	糖果
+8.suning.com/p5/:彩票/旅行/充值/游戏		彩票		排列五
+list.suning.com/0-263275.html:图书	262526-0	经济	263275	财政税收
+list.suning.com/0-205505.html:家装建材/厨具/家具	161645	家纺	205505	坐垫/抱枕
+list.suning.com/0-315504.html:母婴		图书	315504	0-12个月
+list.suning.com/0-263261.html:图书	262526-0	经济	263261	统计审计
+list.suning.com/0-264264.html:图书	262516-0	美丽装扮	264264	瑜伽普拉提
+list.suning.com/0-374503.html:外设/办公/电脑		网络设备	374503	网络相关配件
+list.suning.com/0-373024.html:图书	373005	人文社科	373024	社科馆
+list.suning.com/0-263422.html:图书		计算机/网络	263422	操作系统/系统开发
+list.suning.com/0-262599.html:图书	264008-0	动漫/幽默	262599	其他国外漫画
+list.suning.com/0-318007.html:图书		童书馆	318007	动漫卡通
+list.suning.com/0-318013.html:图书		童书馆	318013	儿童疾病防治
+list.suning.com/0-420082.html:运动户外	420007	体育休闲	420082	其他运动
+list.suning.com/0-337026.html:生活电器/厨卫电器	20320	厨卫大家电	337026	油烟机/灶具
+list.suning.com/0-262536.html:图书		传记	262536	艺术家
+list.suning.com/0-500504.html:酒水饮料/食品保健	500366	南北干货	500504	腌干水产品
+list.suning.com/0-337512.html:生活电器/厨卫电器	20359	个护健康	337512	理发器
+list.suning.com/0-262862.html:图书		孕产妇/育儿	262862	婴幼儿护理
+list.suning.com/0-262898.html:图书		政治/军事	262898	军事
+list.suning.com/0-420560.html:运动户外		健身器材	420560	健腹轮/健腹器
+list.suning.com/0-344329.html:汽车用品	344251	系统养护	344329	系统清洁剂
+list.suning.com/0-420553.html:运动户外	420006	运动包/户外包/配件	420553	背包配件
+list.suning.com/0-262674.html:图书		小说	262674	乡土
+list.suning.com/0-440513.html:配件/数码/手机		智能设备	440513	其他设备
+list.suning.com/0-444504.html:彩票/旅行/充值/游戏		礼品卡	444504	实体卡
+list.suning.com/0-20390.html:生活电器/厨卫电器	20366	生活小家电	20390	吸尘器
+list.suning.com/0-262534.html:图书	264009-0	收藏/鉴赏	262534	珠宝
+list.suning.com/0-431505-0-0-0-0-0-0-0-0-125481.html:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-125481	1P空调
+list.suning.com/0-420058.html:运动户外		垂钓用品	420058	钓鱼工具
+8.suning.com/qlc/:彩票/旅行/充值/游戏		彩票		七乐彩
+list.suning.com/0-420024.html:运动户外	420009	户外装备	420024	户外配饰
+list.suning.com/0-265011.html:图书	262512-0	工业技术	265011	能源与动力工程
+list.suning.com/0-264238.html:图书		旅游	264238	旅游随笔
+list.suning.com/0-235004.html:外设/办公/电脑		办公文仪	235004	本册/便签
+list.suning.com/0-258005.html:外设/办公/电脑		电脑整机	258005	电脑一体机
+list.suning.com/0-276257.html:家装建材/厨具/家具	180501	成人用品	276257	验孕测孕
+beijing.manzuo.com/xxyl?campaign=suning_shouye_daohang:彩票/旅行/充值/游戏		生活团购		娱乐
+list.suning.com/0-264130.html:图书	262524-0	教育考试	264130	建筑工程类职称考试
+list.suning.com/0-420026.html:运动户外	420009	户外装备	420026	户外水具
+list.suning.com/0-263335.html:图书		科普	263335	其他科普知识
+list.suning.com/0-263136.html:图书	262521-0	外语	263136	法语
+list.suning.com/0-420053.html:运动户外		垂钓用品	420053	防晒帽/钓鱼帽
+list.suning.com/0-251003.html:大家电	244009-0	影音	251003	高清播放器
+list.suning.com/0-289515.html:服装鞋帽		女装	289515	女士POLO衫
+list.suning.com/0-157162.html:外设/办公/电脑		网络设备	157162	路由器
+list.suning.com/0-20053.html:配件/数码/手机	20016	手机配件	20053	套装配件
+8.suning.com/sfc/:彩票/旅行/充值/游戏		彩票		足彩胜负彩
+list.suning.com/0-264132.html:图书	262524-0	教育考试	264132	成人高考
+list.suning.com/0-451504.html:珠宝/钟表/礼品	451503	钟表	451504	手表
+list.suning.com/0-500546.html:家装建材/厨具/家具		清洁用品	500546	一次性用品
+list.suning.com/0-500466.html:酒水饮料/食品保健		冲调饮品	500466	麦片/谷物 
+list.suning.com/0-500351.html:家装建材/厨具/家具		生活日用	500351	保暖用品
+list.suning.com/0-362003.html:生活电器/厨卫电器	20320	厨卫大家电	362003	厨卫配件
+list.suning.com/0-336003.html:外设/办公/电脑		电脑整机	336003	游戏本
+list.suning.com/0-337517.html:生活电器/厨卫电器	20359	个护健康	337517	计步器/计时器
+list.suning.com/0-264048.html:图书	262515-0	建筑	264048	建筑外观设计
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-23473.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-23473	46-49英寸
+list.suning.com/0-263103.html:图书	262521-0	外语	263103	行业英语
+list.suning.com/0-221503.html:外设/办公/电脑	20529	DIY硬件	221503	CPU
+list.suning.com/0-264383.html:图书	264010-0	社会科学	264383	语言文字
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-23152.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-23152	女性手机
+list.suning.com/0-500513.html:酒水饮料/食品保健		休闲食品	500513	薯片 
+list.suning.com/0-263333.html:图书		科普	263333	动物
+list.suning.com/0-344272.html:汽车用品	343508	电子/电器	344272	电子狗
+list.suning.com/0-500413.html:酒水饮料/食品保健		营养保健	500413	参类
+list.suning.com/0-500436.html:酒水饮料/食品保健	500364	米面粮油	500436	大米
+list.suning.com/0-420562.html:运动户外		健身器材	420562	拉力绳/拉力器
+list.suning.com/0-262829.html:图书		艺术	262829	摄影
+list.suning.com/0-263009.html:图书	264009-0	收藏/鉴赏	263009	古玩
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-27283.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-27283	滚筒
+list.suning.com/0-340577.html:服装鞋帽	340557	女鞋	340577	特殊功能鞋
+list.suning.com/0-213003.html:外设/办公/电脑		网络设备	213003	4G/3G上网
+list.suning.com/0-380003.html:生活电器/厨卫电器	20320	厨卫大家电	380003	采暖炉
+list.suning.com/0-263032.html:图书	262523-0	体育/运动	263032	篮球
+list.suning.com/0-263029.html:图书	262523-0	体育/运动	263029	乒乓球
+list.suning.com/0-263581.html:图书	262528-0	管理	263581	管理类职称考试
+list.suning.com/0-344368.html:汽车用品	344255	安全/自驾	344368	车锁/地锁
+list.suning.com/0-344263.html:箱包/皮具		功能箱包	344263	旅行包
+list.suning.com/0-500383.html:酒水饮料/食品保健	500375	茶叶	500383	白茶
+list.suning.com/0-265021.html:图书	262512-0	工业技术	265021	电工技术
+list.suning.com/0-243505.html:大家电	293006	电视	243505	平板电视
+list.suning.com/0-315702.html:美妆		眼部	315702	眼影
+list.suning.com/0-344261.html:汽车用品	343508	电子/电器	344261	嵌入式导航
+list.suning.com/0-263267.html:图书	262526-0	经济	263267	经济通俗读物
+list.suning.com/0-500422.html:酒水饮料/食品保健		营养保健	500422	鱼油/磷脂
+list.suning.com/0-92504.html:生活电器/厨卫电器	20359	个护健康	92504	足浴器
+list.suning.com/0-20333.html:生活电器/厨卫电器		厨房小家电	20333	豆浆机
+list.suning.com/0-454004.html:珠宝/钟表/礼品	451503	钟表	454004	女表
+list.suning.com/0-262623.html:图书	262525-0	家居/休闲游戏	262623	占星测试
+list.suning.com/0-373031.html:图书		教育学习	373031	中小学教辅馆
+list.suning.com/0-262669.html:图书		小说	262669	中国当代小说
+list.suning.com/0-264283.html:图书	262518-0	美食	264283	茶
+list.suning.com/0-500350.html:家装建材/厨具/家具		生活日用	500350	家庭整理用具
+list.suning.com/0-263419.html:图书		计算机/网络	263419	电脑杂志期刊
+list.suning.com/0-244013.html:大家电	244009-0	影音	244013	DVD/蓝光DVD
+list.suning.com/0-346868.html:服装鞋帽		男装	346868	男士T恤
+list.suning.com/0-264244.html:图书		旅游	264244	国外自助旅游指南
+list.suning.com/0-263519.html:图书		法律	263519	司法制度/司法技术
+list.suning.com/0-420063.html:运动户外	420007	体育休闲	420063	游泳用品
+list.suning.com/0-262821.html:图书		艺术	262821	舞台艺术戏曲
+list.suning.com/0-500384.html:酒水饮料/食品保健	500375	茶叶	500384	铁观音
+list.suning.com/0-264387.html:图书	264010-0	社会科学	264387	图书馆学档案学
+list.suning.com/0-20399.html:生活电器/厨卫电器	20366	生活小家电	20399	挂烫机
+list.suning.com/0-344334.html:汽车用品		清洁美容	344334	外部清洁
+list.suning.com/0-262689.html:图书		小说	262689	都市
+list.suning.com/0-344288.html:箱包/皮具	344248	精品男包	344288	男士斜挎包
+list.suning.com/0-263327.html:图书		科普	263327	鸟类
+list.suning.com/0-20325.html:生活电器/厨卫电器		厨房小家电	20325	果蔬机
+list.suning.com/0-344324.html:汽车用品		内饰精品	344324	汽车贴纸
+list.suning.com/0-340599.html:服装鞋帽	164010	配饰	340599	毛线
+list.suning.com/0-264294.html:图书	262517-0	农业/林业	264294	农学(农艺学)
+list.suning.com/0-500528.html:酒水饮料/食品保健	500367	方便速食	500528	粽子
+list.suning.com/0-263573.html:图书	262528-0	管理	263573	生产与运作管理
+list.suning.com/0-340571.html:服装鞋帽	340557	女鞋	340571	凉鞋
+list.suning.com/0-164032.html:服装鞋帽	164010	配饰	164032	腰带
+list.suning.com/0-344365.html:汽车用品	344255	安全/自驾	344365	自驾照明
+list.suning.com/0-264267.html:图书	262516-0	美丽装扮	264267	美体/塑形
+list.suning.com/0-500557.html:家装建材/厨具/家具		宠物生活	500557	出行装备
+list.suning.com/0-344352.html:汽车用品	344254	个性改装	344352	轮眉
+list.suning.com/0-420566.html:运动户外		健身器材	420566	美腰机/挺腰器
+list.suning.com/0-264263.html:图书	262516-0	美丽装扮	264263	造型设计
+list.suning.com/0-262860.html:图书		孕产妇/育儿	262860	孕产百科
+list.suning.com/0-264237.html:图书		两性关系	264237	婚恋
+list.suning.com/0-265007.html:图书	262512-0	工业技术	265007	水利工程
+tuan.suning.com/hoteltuan-web/index_.htm?lv1=1004:彩票/旅行/充值/游戏		生活团购		生活
+list.suning.com/0-500516.html:酒水饮料/食品保健		休闲食品	500516	卤味小食
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-28598.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-28598	双缸
+list.suning.com/0-344290.html:汽车用品		坐垫/脚垫	344290	毛垫
+list.suning.com/0-265012.html:图书	262512-0	工业技术	265012	矿业工程
+list.suning.com/0-263094.html:图书	262521-0	外语	263094	英语读物
+list.suning.com/0-344343.html:汽车用品		汽车配件	344343	汽车轮胎
+list.suning.com/0-500378.html:酒水饮料/食品保健	500375	茶叶	500378	红茶
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-24674.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-24674	脱水机
+list.suning.com/0-376005.html:彩票/旅行/充值/游戏		生活团购	376005	商品团
+list.suning.com/0-244005-0-0-0-0-0-0-0-0-134074.html:大家电	243504	冰箱/冷柜	244005-0-0-0-0-0-0-0-0-134074	双门
+list.suning.com/0-226807.html:家装建材/厨具/家具	161645	家纺	226807	床单/被罩/床笠
+list.suning.com/0-264278.html:图书	262518-0	美食	264278	甜品家庭小制作
+list.suning.com/0-244021.html:大家电		大家电配件	244021	空调配件
+list.suning.com/0-420075.html:运动户外	420007	体育休闲	420075	冲浪/帆板
+list.suning.com/0-263016.html:图书	262523-0	体育/运动	263016	象棋
+list.suning.com/0-177501.html:配件/数码/手机	20084	数码配件	177501	读卡器
+list.suning.com/0-263021.html:图书	262523-0	体育/运动	263021	网球
+list.suning.com/0-263042.html:图书		投资理财	263042	外汇
+list.suning.com/0-20070.html:配件/数码/手机	20084	数码配件	20070	闪光灯/手柄
+list.suning.com/0-20331.html:生活电器/厨卫电器		厨房小家电	20331	电水壶/电水瓶
+list.suning.com/0-240503.html:外设/办公/电脑	157237	电脑外设	240503	UPS
+list.suning.com/0-500488.html:酒水饮料/食品保健	500365	厨房调料	500488	食糖
+list.suning.com/0-289507.html:服装鞋帽		女装	289507	女士大衣
+list.suning.com/0-315703.html:美妆		唇部	315703	唇膏
+list.suning.com/0-500690.html:大家电	293006	电视	500690	卧室精选
+list.suning.com/0-420079.html:运动户外	420007	体育休闲	420079	冰雪运动
+list.suning.com/0-431507.html:大家电	431504	空调	431507	移动空调
+list.suning.com/0-500668.html:家装建材/厨具/家具		生活日用	500668	苏宁创意礼品
+list.suning.com/0-244019.html:大家电		大家电配件	244019	电视配件
+list.suning.com/0-264125.html:图书	262524-0	教育考试	264125	自学考试
+list.suning.com/0-157244.html:外设/办公/电脑	157237	电脑外设	157244	键盘
+list.suning.com/0-226808.html:家装建材/厨具/家具	251027	餐厨用具	226808	餐具
+list.suning.com/0-265017.html:图书	262512-0	工业技术	265017	航空、航天
+list.suning.com/0-262855.html:图书		艺术	262855	雕塑
+list.suning.com/0-344363.html:汽车用品	344255	安全/自驾	344363	维修工具
+list.suning.com/0-420573.html:运动户外	420008	户外鞋服	420573	登山鞋
+list.suning.com/0-500442.html:酒水饮料/食品保健		饮料饮品	500442	果汁/果蔬汁
+list.suning.com/0-203501.html:服装鞋帽		男装	203501	男士西服
+list.suning.com/0-264385.html:图书	264010-0	社会科学	264385	心理学
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-10028.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-10028	索尼
+list.suning.com/0-20006.html:配件/数码/手机	20002	手机通讯	20006	手机
+list.suning.com/0-179502.html:外设/办公/电脑	157123	办公打印	179502	墨粉
+list.suning.com/0-340563.html:服装鞋帽	233003	内衣	340563	女士内衣配件
+list.suning.com/0-243505-0-0-0-0-0-0-0-0-22585.html:大家电	293006	电视	243505-0-0-0-0-0-0-0-0-22585	32英寸以下
+list.suning.com/0-346878.html:服装鞋帽		女装	346878	女士衬衫
+list.suning.com/0-265013.html:图书	262512-0	工业技术	265013	金属学与金属工艺
+list.suning.com/0-262624.html:图书	262525-0	家居/休闲游戏	262624	游戏
+list.suning.com/0-344306.html:汽车用品		坐垫/脚垫	344306	通用脚垫
+list.suning.com/0-226003.html:生活电器/厨卫电器		厨房小家电	226003	豆芽机
+list.suning.com/0-264242.html:图书		旅游	264242	旅游地图/自驾游
+list.suning.com/0-244005-0-0-0-0-0-0-0-0-134072.html:大家电	243504	冰箱/冷柜	244005-0-0-0-0-0-0-0-0-134072	三门
+list.suning.com/0-451504-0-0-0-0-0-0-0-0-118829a128559.html:珠宝/钟表/礼品	451503	钟表	451504-0-0-0-0-0-0-0-0-118829a128559	儿童表
+list.suning.com/0-212503.html:家装建材/厨具/家具	161645	家纺	212503	毛巾/浴巾/浴袍
+list.suning.com/0-262532.html:图书		传记	262532	宗教人物
+list.suning.com/0-263330.html:图书		科普	263330	河流
+list.suning.com/0-263089.html:图书	262521-0	外语	263089	英语工具用书
+list.suning.com/0-258004.html:外设/办公/电脑		电脑整机	258004	笔记本
+list.suning.com/0-312005.html:配件/数码/手机	20084	数码配件	312005	专业器材
+list.suning.com/0-340028.html:珠宝/钟表/礼品	161594	礼品	340028	收藏品
+list.suning.com/0-420523.html:运动户外	420005	运动服	420523	运动夹克
+list.suning.com/0-500441.html:酒水饮料/食品保健		饮料饮品	500441	苏打水
+list.suning.com/0-420504.html:运动户外		运动鞋	420504	休闲鞋/板鞋
+list.suning.com/0-243505-0-0-0-0-0-0-0-0-10015.html:大家电	293006	电视	243505-0-0-0-0-0-0-0-0-10015	飞利浦
+list.suning.com/0-227504.html:外设/办公/电脑		办公文仪	227504	装订/封装机
+list.suning.com/0-500394.html:酒水饮料/食品保健	500373	酒	500394	白酒
+list.suning.com/0-336025.html:美妆	315685	美妆工具	336025	眉眼工具
+list.suning.com/0-263341.html:图书		自然科学	263341	力学
+list.suning.com/0-344372.html:汽车用品	344257	整车/服务	344372	线下服务
+list.suning.com/0-420548.html:运动户外	420006	运动包/户外包/配件	420548	双肩背包
+list.suning.com/0-20368.html:生活电器/厨卫电器	20366	生活小家电	20368	电风扇
+list.suning.com/0-340562.html:服装鞋帽	233003	内衣	340562	基础内衣
+list.suning.com/0-500397.html:酒水饮料/食品保健	500373	酒	500397	洋酒 
+list.suning.com/0-264175.html:图书		历史	264175	世界史
+list.suning.com/0-420554.html:运动户外	420006	运动包/户外包/配件	420554	运动/户外配件
+list.suning.com/0-20011.html:配件/数码/手机	20016	手机配件	20011	手机耳机
+list.suning.com/0-264127.html:图书	262524-0	教育考试	264127	医药卫生类职称考试
+list.suning.com/0-263528.html:图书		法律	263528	犯罪学
+list.suning.com/0-340031.html:珠宝/钟表/礼品		乐器	340031	电声乐器
+list.suning.com/0-500433.html:酒水饮料/食品保健		营养保健	500433	左旋肉碱
+list.suning.com/0-500491.html:酒水饮料/食品保健	500365	厨房调料	500491	汤料
+list.suning.com/0-344354.html:汽车用品	344254	个性改装	344354	晴雨挡
+list.suning.com/0-233007.html:服装鞋帽	233003	内衣	233007	背心/吊带/打底衫
+list.suning.com/0-500428.html:酒水饮料/食品保健		营养保健	500428	葡萄籽
+baoxian.suning.com/ins/wealth.htm:彩票/旅行/充值/游戏		保险		财产险
+search.suning.com/emall/strd.do?ci=344263&cityId={cityId}&cf=solr_31611_attrId:E58C96E5A686E58C85:箱包/皮具		功能箱包	344275	化妆包
+list.suning.com/0-262802.html:图书		艺术	262802	影视艺术
+list.suning.com/0-344304.html:汽车用品		坐垫/脚垫	344304	多功能垫
+list.suning.com/0-264245.html:图书		旅游	264245	国内自助旅游指南
+list.suning.com/0-420017.html:运动户外	420009	户外装备	420017	充气床/防潮垫
+list.suning.com/0-262973.html:图书	262522-0	中小学教辅	262973	数理化
+list.suning.com/0-500494.html:酒水饮料/食品保健	500365	厨房调料	500494	料酒/黄酒
+list.suning.com/0-20063.html:配件/数码/手机		摄影摄像	20063	数码相机
+list.suning.com/0-264054.html:图书	262515-0	建筑	264054	城乡规划/市政工程
+list.suning.com/0-263118.html:图书	262521-0	外语	263118	少儿英语教学
+list.suning.com/0-262723.html:图书	262519-0	医学	262723	医疗器械及使用
+search.suning.com/emall/strd.do?ci=344263&cityId={cityId}&cf=solr_31611_attrId:E694B6E7BAB3E8A28B:箱包/皮具		功能箱包	344275	收纳袋
+list.suning.com/0-460004.html:美妆	315685	美妆工具	460004	身体彩绘
+list.suning.com/0-264300.html:图书		青春文学	264300	校园
+search.suning.com/%E5%A4%A7%E7%A0%81%E5%A5%B3%E8%A3%85/cityId={cityId}:服装鞋帽		女装	352503	大码
+list.suning.com/0-263015.html:图书	262523-0	体育/运动	263015	休闲运动
+list.suning.com/0-344292.html:箱包/皮具	344248	精品男包	344292	男士手拿包
+list.suning.com/0-262631.html:图书	262525-0	家居/休闲游戏	262631	风水
+list.suning.com/0-196502.html:配件/数码/手机		摄影摄像	196502	数码摄像机
+list.suning.com/0-263059.html:图书	262521-0	外语	263059	英语专项训练
+list.suning.com/0-264310.html:图书		少儿	264310	益智游戏
+list.suning.com/0-265022.html:图书	262512-0	工业技术	265022	安全科学
+list.suning.com/0-262678.html:图书		小说	262678	世界名著
+list.suning.com/0-262554.html:图书	262514-0	大众健康	262554	孕产妇
+list.suning.com/0-157132.html:外设/办公/电脑	157123	办公打印	157132	扫描仪
+list.suning.com/0-337508.html:生活电器/厨卫电器		厨房小家电	337508	其它厨房小家电
+list.suning.com/0-500534.html:酒水饮料/食品保健		生鲜食品	500534	蛋类
+list.suning.com/0-262611.html:图书	262529-0	工具书	262611	英语工具书
+list.suning.com/0-342011.html:家装建材/厨具/家具	180501	成人用品	342011	情趣内衣
+list.suning.com/0-313088.html:母婴		洗护用品	313088	护肤用品
+list.suning.com/0-500512.html:酒水饮料/食品保健		休闲食品	500512	豆干 
+list.suning.com/0-263329.html:图书		科普	263329	环境保护与治理
+list.suning.com/0-420533.html:运动户外	420005	运动服	420533	棉服
+list.suning.com/0-315516.html:母婴		图书	315516	3-6岁
+list.suning.com/0-500667.html:大家电		苏宁帮客	500667	清洗产品
+list.suning.com/0-351561.html:服装鞋帽		男装	351561	唐装
+list.suning.com/0-337510.html:生活电器/厨卫电器	20359	个护健康	337510	美容器
+list.suning.com/0-20354-0.html:大家电		厨卫/生活电器	20354-0	饮水机
+list.suning.com/0-262549.html:图书		传记	262549	建筑师/设计师
+list.suning.com/0-264309.html:图书		少儿	264309	婴儿读物
+list.suning.com/0-500525.html:酒水饮料/食品保健	500367	方便速食	500525	方便粥 
+list.suning.com/0-342013.html:家装建材/厨具/家具		生活日用	342013	洗晒用品
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-12121.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-12121	小米
+list.suning.com/0-262844.html:图书		艺术	262844	民间艺术
+list.suning.com/0-336016.html:外设/办公/电脑	157123	办公打印	336016	包装设备
+list.suning.com/0-500399.html:酒水饮料/食品保健	500373	酒	500399	养生酒
+list.suning.com/0-500878.html:母婴		童车童床	500878	儿童滑板车
+list.suning.com/0-226004.html:外设/办公/电脑		办公文仪	226004	收款机/支付设备
+search.suning.com/emall/search.do?keyword=%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5&cityId={cityId}:配件/数码/手机		智能设备	420084	无线充电
+list.suning.com/0-262779.html:图书	262519-0	医学	262779	妇产科学
+list.suning.com/0-209503.html:外设/办公/电脑	157123	办公打印	209503	色带
+list.suning.com/0-330526.html:美妆	315685	美妆工具	330526	吸油纸
+list.suning.com/0-187501.html:家装建材/厨具/家具		清洁用品	187501	清洁工具
+list.suning.com/0-263407.html:图书		计算机/网络	263407	数码全攻略
+list.suning.com/0-20344.html:生活电器/厨卫电器	20320	厨卫大家电	20344	热水器
+list.suning.com/0-262533.html:图书	264009-0	收藏/鉴赏	262533	紫砂壶
+list.suning.com/0-265019.html:图书	262512-0	工业技术	265019	工业技术工具书
+list.suning.com/0-241504.html:家装建材/厨具/家具		清洁用品	241504	纸品湿巾
+list.suning.com/0-420568.html:运动户外		健身器材	420568	更多中小型健身器材
+list.suning.com/0-197501.html:家装建材/厨具/家具		生活日用	197501	日常防护
+list.suning.com/0-500684.html:家装建材/厨具/家具		生活日用	500684	辅助工具
+list.suning.com/0-262822.html:图书		艺术	262822	书法篆刻
+list.suning.com/0-32003.html:家装建材/厨具/家具	32002	家装建材	32003	接线板/转换插头
+list.suning.com/0-262979.html:图书	262522-0	中小学教辅	262979	九年级
+list.suning.com/0-344317.html:汽车用品		内饰精品	344317	头枕/颈枕
+list.suning.com/0-262759.html:图书	262519-0	医学	262759	临床医学理论
+list.suning.com/0-500395.html:酒水饮料/食品保健	500373	酒	500395	葡萄酒/果酒
+list.suning.com/0-264204.html:图书		励志与成功	264204	心灵与修养
+list.suning.com/0-500592.html:家装建材/厨具/家具		生活用纸	500592	卷纸
+list.suning.com/0-315059.html:母婴		童装童鞋	315059	儿童配饰
+list.suning.com/0-338023.html:大家电	244009-0	影音	338023	舞台灯光
+list.suning.com/0-500485.html:酒水饮料/食品保健	500365	厨房调料	500485	酱油
+list.suning.com/0-420057.html:运动户外		垂钓用品	420057	钓箱
+list.suning.com/0-420583.html:运动户外	420008	户外鞋服	420583	棉服/棉裤
+list.suning.com/0-264178.html:图书		历史	264178	民族史志
+list.suning.com/0-20330-0.html:大家电		厨卫/生活电器	20330-0	电压力锅
+list.suning.com/0-420558.html:运动户外		健身器材	420558	踏步机
+list.suning.com/0-344289.html:汽车用品		坐垫/脚垫	344289	四季垫
+list.suning.com/0-20372.html:生活电器/厨卫电器	20366	生活小家电	20372	油汀
+list.suning.com/0-249513.html:配件/数码/手机	20016	手机配件	249513	保护壳/套
+list.suning.com/0-264288.html:图书	262517-0	农业/林业	264288	园艺
+list.suning.com/0-321008.html:图书		童书馆	321008	产后恢复
+list.suning.com/0-20327-0.html:大家电		厨卫/生活电器	20327-0	微波炉
+list.suning.com/0-262971.html:图书	262522-0	中小学教辅	262971	文言文/古诗文
+list.suning.com/0-186003.html:外设/办公/电脑	20529	DIY硬件	186003	机箱
+list.suning.com/0-262591.html:图书	264008-0	动漫/幽默	262591	幽默/笑话集
+list.suning.com/0-344322.html:汽车用品		内饰精品	344322	安全带装饰
+list.suning.com/0-500538.html:酒水饮料/食品保健		生鲜食品	500538	烘焙甜品
+list.suning.com/0-420578.html:运动户外	420008	户外鞋服	420578	户外休闲鞋
+list.suning.com/0-265009.html:图书	262512-0	工业技术	265009	轻工业、手工业
+list.suning.com/0-262668.html:图书		小说	262668	中国古典小说
+8.suning.com/qxc/:彩票/旅行/充值/游戏		彩票		七星彩
+list.suning.com/0-420054.html:运动户外		垂钓用品	420054	抄网
+list.suning.com/0-263262.html:图书	262526-0	经济	263262	通货膨胀
+list.suning.com/0-420081.html:运动户外	420007	体育休闲	420081	民间运动
+list.suning.com/0-264518.html:图书	262522-0	中小学教辅	264518	高考
+list.suning.com/0-20354.html:生活电器/厨卫电器	20320	厨卫大家电	20354	饮水机
+list.suning.com/0-262597.html:图书	264008-0	动漫/幽默	262597	动漫学堂
+list.suning.com/0-265008.html:图书	262512-0	工业技术	265008	石油、天然气工业
+list.suning.com/0-500426.html:酒水饮料/食品保健		营养保健	500426	枸杞/枸杞产品
+list.suning.com/0-336022.html:美妆		眼部	336022	假睫毛
+list.suning.com/0-340578.html:服装鞋帽	340557	女鞋	340578	布鞋/绣花鞋
+list.suning.com/0-169002.html:外设/办公/电脑	157123	办公打印	169002	传真机
+list.suning.com/0-263038.html:图书	262523-0	体育/运动	263038	其它球类运动
+list.suning.com/0-20398.html:生活电器/厨卫电器	20366	生活小家电	20398	电熨斗
+list.suning.com/0-262541.html:图书		传记	262541	体坛明星
+list.suning.com/0-337504.html:配件/数码/手机	20084	数码配件	337504	机身附件
+list.suning.com/0-224003.html:配件/数码/手机	20090	影音电子	224003	MID/平板电脑
+list.suning.com/0-36503.html:家装建材/厨具/家具	251027	餐厨用具	36503	刀具
+list.suning.com/0-263411.html:图书		计算机/网络	263411	企业软件开发与实施
+list.suning.com/0-263048.html:图书		投资理财	263048	基金
+list.suning.com/0-500377.html:酒水饮料/食品保健	500375	茶叶	500377	乌龙茶
+list.suning.com/0-500500.html:酒水饮料/食品保健	500366	南北干货	500500	桂圆/龙眼干
+list.suning.com/0-262543.html:图书		传记	262543	女性人物
+list.suning.com/0-340574-0-1-0-{cityId}-0-0-0-0-28798.html:服装鞋帽	340557	女鞋	340574-0-1-0-{cityId}-0-0-0-0-28798	雪地靴
+list.suning.com/0-263403.html:图书		计算机/网络	263403	行业软件及应用
+list.suning.com/0-263129.html:图书	262521-0	外语	263129	韩语
+list.suning.com/0-263052.html:图书		投资理财	263052	保险
+list.suning.com/0-420013.html:运动户外	420009	户外装备	420013	垂钓装备
+list.suning.com/0-420016.html:运动户外	420009	户外装备	420016	帐篷
+list.suning.com/0-500596.html:家装建材/厨具/家具		生活用纸	500596	厨房用纸
+list.suning.com/0-500034.html:家装建材/厨具/家具		清洁用品	500034	生活用纸
+list.suning.com/0-157124.html:外设/办公/电脑	157123	办公打印	157124	投影仪
+list.suning.com/0-262705.html:图书	262519-0	医学	262705	医院管理
+list.suning.com/0-249508.html:外设/办公/电脑	157237	电脑外设	249508	扩展坞
+list.suning.com/0-317055.html:母婴		玩具	317055	动漫玩具
+list.suning.com/0-157128.html:外设/办公/电脑		办公文仪	157128	考勤机
+list.suning.com/0-262614.html:图书	262529-0	工具书	262614	百科全书/年鉴
+list.suning.com/0-500548.html:家装建材/厨具/家具		生活日用	500548	降温用品
+list.suning.com/0-262544.html:图书		传记	262544	领袖首脑
+list.suning.com/0-263271.html:图书	262526-0	经济	263271	经济法规
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-41147.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-41147	全自动洗衣机
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10005.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10005	海信
+list.suning.com/0-161548.html:家装建材/厨具/家具	251027	餐厨用具	161548	保鲜盒/便当盒
+list.suning.com/0-263343.html:图书		自然科学	263343	化学
+list.suning.com/0-264302.html:图书		青春文学	264302	大陆原创
+list.suning.com/0-346870.html:服装鞋帽		男装	346870	男士衬衫
+list.suning.com/0-313039.html:母婴	313037-0	喂养用品	313039	保温消毒
+list.suning.com/0-261503.html:生活电器/厨卫电器	20320	厨卫大家电	261503	垃圾处理机
+list.suning.com/0-340590.html:服装鞋帽		女装	340590	皮裤
+list.suning.com/0-262659.html:图书		文学	262659	戏剧
+list.suning.com/0-342505.html:服装鞋帽	340557	女鞋	342505	雨靴
+list.suning.com/0-263570.html:图书	262528-0	管理	263570	战略管理
+list.suning.com/0-262685.html:图书		小说	262685	惊悚/恐怖
+list.suning.com/0-208504.html:家装建材/厨具/家具	180501	成人用品	208504	情爱玩具
+list.suning.com/0-263166.html:图书		文化	263166	中国民俗
+channel.suning.com/diannaozhengji.html:外设/办公/电脑		电脑整机	397003	电脑频道
+list.suning.com/0-317047.html:母婴		玩具	317047	模型玩具
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10328.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10328	先锋
+list.suning.com/0-251028.html:家装建材/厨具/家具	251027	餐厨用具	251028	收纳/储物
+list.suning.com/0-263155.html:图书	262521-0	外语	263155	大学英语
+search.suning.com/emall/strd.do?ci=346877&cityId={cityId}&cf=solr_31611_attrId:E5908AE5B8A62FE8838CE5BF83:服装鞋帽		女装	289515	吊带/背心
+list.suning.com/0-313025.html:母婴	313013-0	营养辅食	313025	孕婴营养品
+list.suning.com/0-161744.html:服装鞋帽	164010	配饰	161744	眼镜
+list.suning.com/0-344277.html:汽车用品	343508	电子/电器	344277	车载蓝牙
+list.suning.com/0-500349.html:服装鞋帽		男装	500349	男士短裤
+list.suning.com/0-262671.html:图书		小说	262671	侦探/悬疑/推理
+list.suning.com/0-340579.html:服装鞋帽		男装	340579	短裤
+list.suning.com/0-263577.html:图书	262528-0	管理	263577	会计
+list.suning.com/0-500521.html:酒水饮料/食品保健		休闲食品	500521	月饼
+list.suning.com/0-263028.html:图书	262523-0	体育/运动	263028	桥牌
+list.suning.com/0-344348.html:汽车用品	344254	个性改装	344348	护杠
+list.suning.com/0-420514.html:运动户外		运动鞋	420514	网球鞋
+list.suning.com/0-262858.html:图书		孕产妇/育儿	262858	孕期
+list.suning.com/0-344262.html:汽车用品	343508	电子/电器	344262	车载空气净化
+list.suning.com/0-344347.html:汽车用品		汽车配件	344347	防爆膜
+list.suning.com/0-264247.html:图书		旅游	264247	城市自助旅游指南
+list.suning.com/0-368003.html:生活电器/厨卫电器	20320	厨卫大家电	368003	嵌入式微波炉
+list.suning.com/0-20339.html:生活电器/厨卫电器		厨房小家电	20339	咖啡机/咖啡壶
+list.suning.com/0-373015.html:图书	373004	生活休闲	373015	美食馆
+list.suning.com/0-264203.html:图书		励志与成功	264203	性格与习惯
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-26912.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-26912	32英寸
+list.suning.com/0-425007.html:家装建材/厨具/家具	423507	布艺软饰	425007	挂毯/壁毯
+list.suning.com/0-340593.html:服装鞋帽	164010	配饰	340593	领带夹
+list.suning.com/0-263340.html:图书		自然科学	263340	生物科学
+list.suning.com/0-262594.html:图书	264008-0	动漫/幽默	262594	日韩漫画
+list.suning.com/0-344282.html:汽车用品	343508	电子/电器	344282	汽车影音
+list.suning.com/0-244005-0-0-0-0-0-0-0-0-134075.html:大家电	243504	冰箱/冷柜	244005-0-0-0-0-0-0-0-0-134075	对开门
+channel.suning.com/diannaowaishe.html:外设/办公/电脑	20529	DIY硬件	304504	DIY频道
+list.suning.com/0-20334.html:生活电器/厨卫电器		厨房小家电	20334	榨汁机/原汁机
+list.suning.com/0-214003.html:外设/办公/电脑	157237	电脑外设	214003	电源/适配器
+list.suning.com/0-264275.html:图书	262516-0	美丽装扮	264275	化妆
+list.suning.com/0-262863.html:图书		孕产妇/育儿	262863	胎教/优生
+list.suning.com/0-198504.html:配件/数码/手机	20084	数码配件	198504	三脚架/云台
+list.suning.com/0-344330.html:汽车用品	344251	系统养护	344330	防冻液/附属油
+list.suning.com/0-311003.html:大家电	244009-0	影音	311003	HiFi耳机
+list.suning.com/0-20092.html:配件/数码/手机	20090	影音电子	20092	MP3/MP4
+list.suning.com/0-500390.html:酒水饮料/食品保健	500374	咖啡	500390	咖啡豆/粉
+list.suning.com/0-315692.html:美妆	315679	面部底妆	315692	粉饼
+member.suning.com/emall/YBBagIndexView?storeId=10052&catalogId=10051:彩票/旅行/充值/游戏		延保服务		阳光包
+list.suning.com/0-500670.html:母婴	315560-0	百万孕妈专区	500670	母婴服务
+list.suning.com/0-344312.html:汽车用品		内饰精品	344312	方向盘套
+list.suning.com/0-264312.html:图书		少儿	264312	外国儿童文学
+list.suning.com/0-313096-0.html:母婴	315560-0	百万孕妈专区	313096-0	妈咪个人洗护
+list.suning.com/0-344313.html:汽车用品		内饰精品	344313	换档/手刹套
+redbaby.suning.com/mama.html:母婴	315560-0	百万孕妈专区		孕产营养品/奶粉
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10415.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10415	TCL
+list.suning.com/0-20108.html:配件/数码/手机	20103	电子教育	20108	个人掌上电脑
+list.suning.com/0-500537.html:酒水饮料/食品保健		生鲜食品	500537	速冻食品 
+list.suning.com/0-455503.html:家装建材/厨具/家具	161645	家纺	455503	被子
+list.suning.com/0-258007.html:外设/办公/电脑		电脑整机	258007	超极本
+tuan.suning.com/hoteltuan-web/index_ht.htm?lv1=1007:彩票/旅行/充值/游戏		酒店		团购酒店
+list.suning.com/0-263012.html:图书	264009-0	收藏/鉴赏	263012	其他收藏
+list.suning.com/0-344360.html:汽车用品	344254	个性改装	344360	底盘护甲
+list.suning.com/0-262956.html:图书	262522-0	中小学教辅	262956	小学三年级
+list.suning.com/0-262618.html:图书		家庭教育	262618	青春期教育
+list.suning.com/0-420042.html:运动户外		骑行装备	420042	护具
+list.suning.com/0-500679.html:外设/办公/电脑	500678	游戏装备	500679	游戏耳机
+list.suning.com/0-263020.html:图书	262523-0	体育/运动	263020	围棋
+list.suning.com/0-262790.html:图书	262519-0	医学	262790	医药学其他
+list.suning.com/0-263263.html:图书	262526-0	经济	263263	区域经济
+list.suning.com/0-315715.html:美妆	315687	美甲工具	315715	美甲工具
+list.suning.com/0-245003.html:外设/办公/电脑	337020	存储设备	245003	刻录盘片/附件
+list.suning.com/0-373025.html:图书	373005	人文社科	373025	政治军事馆
+list.suning.com/0-157245.html:外设/办公/电脑	157237	电脑外设	157245	保护膜
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-22270.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-22270	Android
+list.suning.com/0-315005.html:母婴		海外直通车	315005	快乐小食
+list.suning.com/0-262681.html:图书		小说	262681	魔幻/玄幻
+list.suning.com/0-20327.html:生活电器/厨卫电器		厨房小家电	20327	微波炉
+list.suning.com/0-337516.html:生活电器/厨卫电器	20359	个护健康	337516	体温计
+list.suning.com/0-262972.html:图书	262522-0	中小学教辅	262972	拓展读物
+list.suning.com/0-431505-0-0-0-0-0-0-0-0-125482.html:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-125482	3P空调
+member.suning.com/emall/GiftCardStaticPageView?storeId=10052&catalogId=10051:彩票/旅行/充值/游戏		礼品卡		礼品卡
+list.suning.com/0-263344.html:图书		自然科学	263344	地球科学
+list.suning.com/0-157173.html:外设/办公/电脑		音像制品	157173	碟片
+baoxian.suning.com/ins/visa.htm:彩票/旅行/充值/游戏		保险		签证险
+list.suning.com/0-20106.html:配件/数码/手机	20103	电子教育	20106	电子词典
+list.suning.com/0-337026-0.html:大家电		厨卫/生活电器	337026-0	油烟机/灶具
+list.suning.com/0-336015.html:外设/办公/电脑	157123	办公打印	336015	办公设备配件
+list.suning.com/0-244015.html:大家电	244009-0	影音	244015	AV音箱
+list.suning.com/0-336026.html:美妆	315685	美妆工具	336026	粉扑
+list.suning.com/0-346875.html:服装鞋帽		男装	346875	男士针织/毛衣
+list.suning.com/0-262856.html:图书		孕产妇/育儿	262856	准备怀孕
+list.suning.com/0-500031.html:服装鞋帽		女装	500031	连衣裙
+list.suning.com/0-244008-0-0-0-0-0-0-0-0-45356.html:大家电	243504	冰箱/冷柜	244008-0-0-0-0-0-0-0-0-45356	卧式冷柜
+list.suning.com/0-263172.html:图书		文化	263172	经
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-10099.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-10099	联想
+list.suning.com/0-346874.html:服装鞋帽		男装	346874	男士羽绒服
+sh.suning.com/life/5-1.html:彩票/旅行/充值/游戏	1	转账汇款	1	信用卡还款
+search.suning.com/emall/strd.do?ci=92526&cityId={cityId}&iy=-1&n=1&cf=brand_Name_FacetAll:%E8%8A%9D%E5%8D%8E%E4%BB%95:大家电		大家电配件	244023	影院沙发及附件
+list.suning.com/0-264284.html:图书	262518-0	美食	264284	餐饮指南
+list.suning.com/0-420540.html:运动户外	420006	运动包/户外包/配件	420540	运动帽
+list.suning.com/0-289506.html:服装鞋帽		女装	289506	女士风衣
+8.suning.com/3d/:彩票/旅行/充值/游戏		彩票		福彩3D
+list.suning.com/0-264216.html:图书		励志与成功	264216	礼仪
+list.suning.com/0-420022.html:运动户外	420009	户外装备	420022	刀具/多用工具
+list.suning.com/0-316051.html:美妆	315685	美妆工具	316051	美妆工具
+list.suning.com/0-344316.html:汽车用品		内饰精品	344316	手机/饮料架
+list.suning.com/0-244011.html:大家电	244009-0	影音	244011	时尚迷你/组合音响
+list.suning.com/0-167501.html:外设/办公/电脑		办公文仪	167501	光盘包
+list.suning.com/0-264209.html:图书		励志与成功	264209	青少年励志
+list.suning.com/0-420505.html:运动户外		运动鞋	420505	运动凉鞋/拖鞋
+list.suning.com/0-289012.html:服装鞋帽		男装	289012	男士皮衣
+list.suning.com/0-244005-0-0-0-0-0-0-0-0-134076.html:大家电	243504	冰箱/冷柜	244005-0-0-0-0-0-0-0-0-134076	多门
+tuan.suning.com/hoteltuan-web/tuanindex_2.htm:彩票/旅行/充值/游戏		生活团购		婚庆
+list.suning.com/0-262595.html:图书	264008-0	动漫/幽默	262595	欧美漫画
+list.suning.com/0-336522.html:配件/数码/手机	20016	手机配件	336522	手机饰品
+list.suning.com/0-264051.html:图书	262515-0	建筑	264051	建筑科学
+list.suning.com/0-420537.html:运动户外	420006	运动包/户外包/配件	420537	运动包
+list.suning.com/0-20340.html:生活电器/厨卫电器		厨房小家电	20340	煮蛋器
+8.suning.com/bqc/:彩票/旅行/充值/游戏		彩票		足彩半全场
+list.suning.com/0-20101.html:外设/办公/电脑	500678	游戏装备	20101	游戏机
+list.suning.com/0-262677.html:图书		小说	262677	四大名著
+list.suning.com/0-344340.html:汽车用品		汽车配件	344340	火花塞
+list.suning.com/0-343506.html:家装建材/厨具/家具	161645	家纺	343506	床品定制/定做
+list.suning.com/0-204551.html:家装建材/厨具/家具	161645	家纺	204551	蚊帐
+list.suning.com/0-420029.html:运动户外		骑行装备	420029	山地车
+list.suning.com/0-264052.html:图书	262515-0	建筑	264052	建筑教材/教辅
+list.suning.com/0-338008.html:生活电器/厨卫电器	20320	厨卫大家电	338008	净水滤芯/净水龙头
+list.suning.com/0-344279.html:汽车用品	343508	电子/电器	344279	电源转换器
+list.suning.com/0-262569.html:图书	262520-0	地图/地理	262569	大洋洲地图
+list.suning.com/0-20336.html:生活电器/厨卫电器		厨房小家电	20336	烤箱
+list.suning.com/0-262619.html:图书		家庭教育	262619	家教方法
+list.suning.com/0-262778.html:图书	262519-0	医学	262778	护理学
+list.suning.com/0-423508.html:家装建材/厨具/家具	423507	布艺软饰	423508	十字绣
+list.suning.com/0-262596.html:图书	264008-0	动漫/幽默	262596	港台漫画
+list.suning.com/0-161587.html:家装建材/厨具/家具	160518	韩国馆	161587	居家装饰品
+list.suning.com/0-173503.html:外设/办公/电脑	157123	办公打印	173503	硒鼓
+list.suning.com/0-264279.html:图书	262518-0	美食	264279	世界美食
+list.suning.com/0-500593.html:家装建材/厨具/家具		生活用纸	500593	手帕纸
+list.suning.com/0-263011.html:图书	264009-0	收藏/鉴赏	263011	瓷器
+list.suning.com/0-500414.html:酒水饮料/食品保健		营养保健	500414	阿胶膏/阿胶制品
+list.suning.com/0-233006.html:服装鞋帽	233003	内衣	233006	女士保暖内衣
+list.suning.com/0-500029.html:外设/办公/电脑	157123	办公打印	500029	激光笔
+baoxian.suning.com/ins/tour.htm:彩票/旅行/充值/游戏		保险		旅游险
+list.suning.com/0-20107.html:配件/数码/手机	20103	电子教育	20107	电子书
+list.suning.com/0-500688.html:配件/数码/手机	20016	手机配件	500688	手机U盘
+list.suning.com/0-262747.html:图书	262519-0	医学	262747	内科学
+list.suning.com/0-420028.html:运动户外	420009	户外装备	420028	登山杖
+list.suning.com/0-431505-0-0-0-0-0-0-0-0-79475.html:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-79475	挂壁式空调
+list.suning.com/0-136507.html:生活电器/厨卫电器		厨房小家电	136507	电炖锅/电炖盅
+list.suning.com/0-344344.html:汽车用品		汽车配件	344344	喇叭
+list.suning.com/0-264272.html:图书	262516-0	美丽装扮	264272	美发/美甲
+list.suning.com/0-373029.html:图书		教育学习	373029	外语馆
+list.suning.com/0-344321.html:汽车用品		内饰精品	344321	车载烟灰缸
+list.suning.com/0-164016.html:服装鞋帽	164010	配饰	164016	围巾/丝巾/披肩
+list.suning.com/0-420067.html:运动户外	420007	体育休闲	420067	排球
+list.suning.com/0-373012.html:图书	373003	文学艺术	373012	青春文学馆
+list.suning.com/0-263027.html:图书	262523-0	体育/运动	263027	水上运动
+list.suning.com/0-20395.html:生活电器/厨卫电器	20366	生活小家电	20395	加湿器/香薰仪
+list.suning.com/0-500549.html:家装建材/厨具/家具		生活日用	500549	香薰用品
+game.suning.com/game-web/:彩票/旅行/充值/游戏		游戏		游戏点卡
+list.suning.com/0-353503.html:服装鞋帽	233003	内衣	353503	袜子
+list.suning.com/0-500535.html:酒水饮料/食品保健		生鲜食品	500535	海鲜水产
+list.suning.com/0-264304.html:图书		青春文学	264304	爱情/情感
+list.suning.com/0-344369.html:汽车用品	344255	安全/自驾	344369	摩托用品
+list.suning.com/0-20362.html:生活电器/厨卫电器	20359	个护健康	20362	电吹风
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-11635.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-11635	华为
+list.suning.com/0-263014.html:图书	262523-0	体育/运动	263014	羽毛球
+list.suning.com/0-262625.html:图书	262525-0	家居/休闲游戏	262625	消费指南
+list.suning.com/0-420517.html:运动户外		运动鞋	420517	青少年鞋
+list.suning.com/0-263405.html:图书		计算机/网络	263405	网络与数据通信
+list.suning.com/0-336006.html:外设/办公/电脑	500678	游戏装备	336006	游戏附件
+list.suning.com/0-20056.html:外设/办公/电脑		办公文仪	20056	对讲机
+list.suning.com/0-263328.html:图书		科普	263328	昆虫
+list.suning.com/0-262843.html:图书		艺术	262843	人体艺术
+list.suning.com/0-235003.html:外设/办公/电脑		办公文仪	235003	笔类
+list.suning.com/0-500544.html:家装建材/厨具/家具	251027	餐厨用具	500544	酒具
+list.suning.com/0-338004.html:生活电器/厨卫电器	20320	厨卫大家电	338004	电蒸炉
+list.suning.com/0-264274.html:图书	262516-0	美丽装扮	264274	减肥/瘦身
+list.suning.com/0-263410.html:图书		计算机/网络	263410	人工智能
+list.suning.com/0-161583.html:家装建材/厨具/家具	160518	韩国馆	161583	办公/文具
+list.suning.com/0-313040.html:母婴	313037-0	喂养用品	313040	日常用品
+list.suning.com/0-263424.html:图书		计算机/网络	263424	CAD/CAM/CAE
+pindao.suning.com/city/kongtiao.htm:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-125482	空调频道页
+list.suning.com/0-262622.html:图书	262525-0	家居/休闲游戏	262622	装修装潢
+list.suning.com/0-262951.html:图书	262522-0	中小学教辅	262951	小学升初中
+list.suning.com/0-264181.html:图书		历史	264181	考古、文物
+list.suning.com/0-323503.html:大家电		大家电配件	323503	电视机柜
+list.suning.com/0-500493.html:酒水饮料/食品保健	500365	厨房调料	500493	酱菜
+list.suning.com/0-263527.html:图书		法律	263527	港澳台地区法律
+list.suning.com/0-313122.html:母婴		玩具	313122	毛绒玩具
+list.suning.com/0-263321.html:图书		科普	263321	自然灾害
+list.suning.com/0-263149.html:图书	262521-0	外语	263149	德语
+list.suning.com/0-244005-0-0-0-0-0-0-0-0-134073.html:大家电	243504	冰箱/冷柜	244005-0-0-0-0-0-0-0-0-134073	单门
+list.suning.com/0-313125.html:母婴		玩具	313125	遥控玩具
+list.suning.com/0-315010.html:母婴		海外直通车	315010	孕妈用品
+list.suning.com/0-420014.html:运动户外	420009	户外装备	420014	户外照明/仪表
+list.suning.com/0-336018.html:外设/办公/电脑	157123	办公打印	336018	印刷耗材
+list.suning.com/0-264297.html:图书		青春文学	264297	娱乐/偶像
+list.suning.com/0-420509.html:运动户外		运动鞋	420509	篮球鞋
+list.suning.com/0-368004.html:生活电器/厨卫电器	20320	厨卫大家电	368004	嵌入式厨电
+list.suning.com/0-420532.html:运动户外	420005	运动服	420532	羽绒服
+list.suning.com/0-262665.html:图书		文学	262665	纪实文学
+list.suning.com/0-344265.html:箱包/皮具		功能箱包	344265	登山包
+list.suning.com/0-20342.html:生活电器/厨卫电器		厨房小家电	20342	酸奶机
+list.suning.com/0-262867.html:图书		哲学/宗教	262867	宗教
+list.suning.com/0-289007.html:服装鞋帽		男装	289007	男士风衣
+search.suning.com/emall/search.do?keyword=%E5%AD%98%E5%82%A8%E5%8D%A1&cityId={cityId}:外设/办公/电脑	337020	存储设备	245003	存储卡
+list.suning.com/0-427503.html:家装建材/厨具/家具	423507	布艺软饰	427503	沙发垫套
+list.suning.com/0-500480.html:酒水饮料/食品保健	500370	牛奶乳品	500480	风味奶 
+list.suning.com/0-263332.html:图书		科普	263332	海洋
+list.suning.com/0-420572.html:运动户外	420008	户外鞋服	420572	溯溪鞋
+list.suning.com/0-500396.html:酒水饮料/食品保健	500373	酒	500396	黄酒/米酒
+list.suning.com/0-264316.html:图书		少儿	264316	少儿励志/成长
+list.suning.com/0-338005.html:生活电器/厨卫电器	20320	厨卫大家电	338005	中央热水器
+list.suning.com/0-258012.html:外设/办公/电脑	157237	电脑外设	258012	笔记本配件
+list.suning.com/0-336523.html:配件/数码/手机	20016	手机配件	336523	手机充电器
+list.suning.com/0-344350.html:汽车用品	344254	个性改装	344350	行李架
+list.suning.com/0-420503.html:运动户外		运动鞋	420503	跑步鞋
+list.suning.com/0-500563.html:生活电器/厨卫电器	20366	生活小家电	500563	扫地机器人
+list.suning.com/0-264390.html:图书	264010-0	社会科学	264390	社会科学总论
+list.suning.com/0-262562.html:图书	262514-0	大众健康	262562	常见病
+list.suning.com/0-263412.html:图书		计算机/网络	263412	家庭与办公室用书
+list.suning.com/0-340581.html:服装鞋帽		男装	340581	男士牛仔服
+list.suning.com/0-313126.html:母婴		玩具	313126	DIY手工/绘画
+list.suning.com/0-20391.html:生活电器/厨卫电器	20366	生活小家电	20391	清洁机
+list.suning.com/0-262919.html:图书	262522-0	中小学教辅	262919	英语作文
+list.suning.com/0-420078.html:运动户外	420007	体育休闲	420078	棋牌麻将
+list.suning.com/0-263033.html:图书	262523-0	体育/运动	263033	极限运动
+list.suning.com/0-338003.html:配件/数码/手机	20090	影音电子	338003	音箱
+list.suning.com/0-344273.html:汽车用品	343508	电子/电器	344273	胎压胎测
+list.suning.com/0-161662.html:家装建材/厨具/家具	161645	家纺	161662	床品套件
+list.suning.com/0-373011.html:图书	373003	文学艺术	373011	文学馆
+list.suning.com/0-265020.html:图书	262512-0	工业技术	265020	电子通信
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-10103.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-10103	iPhone
+list.suning.com/0-264292.html:图书	262517-0	农业/林业	264292	农业基础科学
+list.suning.com/0-263342.html:图书		自然科学	263342	科技史
+list.suning.com/0-315574.html:母婴	315560-0	百万孕妈专区	315574	妈妈内衣
+list.suning.com/0-500599.html:家装建材/厨具/家具		生活用纸	500599	静电除尘纸
+list.suning.com/0-264282.html:图书	262518-0	美食	264282	家常食谱
+game.suning.com/game-web/cardCenter.htm:彩票/旅行/充值/游戏		游戏		新手卡
+list.suning.com/0-186001.html:外设/办公/电脑	20529	DIY硬件	186001	主板
+list.suning.com/0-157252.html:外设/办公/电脑	337020	存储设备	157252	移动硬盘
+list.suning.com/0-340561.html:服装鞋帽	233003	内衣	340561	男士基础内衣
+list.suning.com/0-20028.html:配件/数码/手机	20016	手机配件	20028	创意配件
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-27991.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-27991	干衣机
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-10167.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-10167	诺基亚
+list.suning.com/0-420551.html:运动户外	420006	运动包/户外包/配件	420551	挎包/拎包/休闲包
+list.suning.com/0-315004.html:母婴		海外直通车	315004	奶粉辅食
+list.suning.com/0-263575.html:图书	262528-0	管理	263575	商务沟通
+list.suning.com/0-336009.html:外设/办公/电脑		电脑整机	336009	商用电脑
+list.suning.com/0-262917.html:图书	262522-0	中小学教辅	262917	语文作文
+list.suning.com/0-262676.html:图书		小说	262676	外国小说
+list.suning.com/0-244022.html:大家电		大家电配件	244022	洗衣机配件
+fashion.suning.com/nanxienvxie.html:服装鞋帽	340557	女鞋	342505	鞋靴频道
+list.suning.com/0-313090.html:母婴		洗护用品	313090	洗发沐浴
+list.suning.com/0-262593.html:图书	264008-0	动漫/幽默	262593	世界经典漫画集
+list.suning.com/0-263273.html:图书	262526-0	经济	263273	各流派经济学说
+list.suning.com/0-20038.html:配件/数码/手机	20016	手机配件	20038	车载
+list.suning.com/0-263269.html:图书	262526-0	经济	263269	经济史
+list.suning.com/0-263003.html:外设/办公/电脑	20529	DIY硬件	263003	装机配件
+list.suning.com/0-344357.html:汽车用品	344254	个性改装	344357	尾翼
+list.suning.com/0-264219.html:图书		励志与成功	264219	出国/留学
+list.suning.com/0-263036.html:图书	262523-0	体育/运动	263036	高尔夫球
+list.suning.com/0-199004.html:配件/数码/手机	20084	数码配件	199004	摄影包
+list.suning.com/0-500550.html:家装建材/厨具/家具		生活日用	500550	缝纫/针织用品
+list.suning.com/0-500448.html:酒水饮料/食品保健		饮料饮品	500448	功能饮料
+list.suning.com/0-344339.html:汽车用品		汽车配件	344339	滤清器
+jiudian.suning.com:彩票/旅行/充值/游戏		酒店		国内酒店
+list.suning.com/0-420055.html:运动户外		垂钓用品	420055	渔具套装
+list.suning.com/0-316046.html:美妆	315685	美妆工具	316046	化妆刷
+list.suning.com/0-233505.html:外设/办公/电脑	157237	电脑外设	233505	苹果配件
+list.suning.com/0-420062.html:运动户外	420007	体育休闲	420062	足球
+list.suning.com/0-157176.html:外设/办公/电脑		音像制品	157176	音像期刊
+list.suning.com/0-289504.html:服装鞋帽		女装	289504	女士夹克
+list.suning.com/0-157126.html:外设/办公/电脑	157123	办公打印	157126	一体机
+list.suning.com/0-264215.html:图书		励志与成功	264215	励志经典著作
+list.suning.com/0-263525.html:图书		法律	263525	国际法
+list.suning.com/0-161607.html:珠宝/钟表/礼品	161594	礼品	161607	工艺摆件
+list.suning.com/0-289018.html:服装鞋帽		男装	289018	男士西裤
+list.suning.com/0-344309.html:汽车用品		内饰精品	344309	车用香水
+list.suning.com/0-500683.html:家装建材/厨具/家具		生活日用	500683	家居器皿
+list.suning.com/0-20068.html:配件/数码/手机		摄影摄像	20068	镜头
+list.suning.com/0-263522.html:图书		法律	263522	民法
+list.suning.com/0-500352.html:家装建材/厨具/家具		生活日用	500352	浴室用品
+list.suning.com/0-284503.html:家装建材/厨具/家具	251027	餐厨用具	284503	茶具
+list.suning.com/0-500689.html:大家电	293006	电视	500689	客厅优选
+list.suning.com/0-500536.html:酒水饮料/食品保健		生鲜食品	500536	腌腊制品
+list.suning.com/0-500417.html:酒水饮料/食品保健		营养保健	500417	蜂制品
+list.suning.com/0-264311.html:图书		少儿	264311	玩具书
+list.suning.com/0-420524.html:运动户外	420005	运动服	420524	针织衫
+list.suning.com/0-500555.html:家装建材/厨具/家具		宠物生活	500555	宠物零食
+list.suning.com/0-262565.html:图书	262520-0	地图/地理	262565	亚洲地图
+list.suning.com/0-304504.html:外设/办公/电脑	20529	DIY硬件	304504	声卡/扩展卡
+list.suning.com/0-262845.html:图书		艺术	262845	建筑艺术
+list.suning.com/0-344335.html:汽车用品		清洁美容	344335	内饰清洁
+list.suning.com/0-373023.html:图书	373005	人文社科	373023	历史馆
+list.suning.com/0-373035.html:图书		经管励志	373035	励志馆
+list.suning.com/0-315060.html:母婴		童装童鞋	315060	亲子装
+list.suning.com/0-500470.html:酒水饮料/食品保健		冲调饮品	500470	果味冲饮
+list.suning.com/0-344326.html:汽车用品	344251	系统养护	344326	机油
+list.suning.com/0-262886.html:图书		政治/军事	262886	政治军事类教材
+list.suning.com/0-157242.html:外设/办公/电脑	157237	电脑外设	157242	电脑清洁
+list.suning.com/0-20396.html:生活电器/厨卫电器	20366	生活小家电	20396	家用除湿机
+list.suning.com/0-157253.html:外设/办公/电脑	157237	电脑外设	157253	游戏设备
+list.suning.com/0-262854.html:图书		艺术	262854	工艺美术
+list.suning.com/0-313041.html:母婴	313037-0	喂养用品	313041	母乳喂养
+list.suning.com/0-420030.html:运动户外		骑行装备	420030	休闲车
+list.suning.com/0-179001.html:配件/数码/手机	20016	手机配件	179001	移动电源
+baoxian.suning.com/ins/accident.htm:彩票/旅行/充值/游戏		保险		意外险
+list.suning.com/0-500412.html:酒水饮料/食品保健		营养保健	500412	传统滋补
+list.suning.com/0-263585.html:图书	262528-0	管理	263585	MBA
+pindao.suning.com/city/shouhoujucai.html:大家电		苏宁帮客	500669	聚材网
+list.suning.com/0-262846.html:图书		艺术	262846	绘画
+list.suning.com/0-340523.html:家装建材/厨具/家具	32002	家装建材	340523	家居服务
+list.suning.com/0-344311.html:汽车用品		内饰精品	344311	空气清新
+list.suning.com/0-263010.html:图书	264009-0	收藏/鉴赏	263010	雕刻
+list.suning.com/0-315580.html:母婴	315560-0	百万孕妈专区	315580	祛纹/纤体塑身
+list.suning.com/0-263051.html:图书		投资理财	263051	彩票
+list.suning.com/0-420084.html:配件/数码/手机		智能设备	420084	智能防丢
+list.suning.com/0-263516.html:图书		法律	263516	宪法、行政法
+book.suning.com/:图书	262524-0	教育考试	264134	图书频道
+list.suning.com/0-263175.html:图书		文化	263175	集
+list.suning.com/0-262552.html:图书	262514-0	大众健康	262552	中医保健
+list.suning.com/0-315697.html:美妆		眉部	315697	眉粉/眉膏
+list.suning.com/0-263518.html:图书		法律	263518	诉讼法/程序法
+list.suning.com/0-420565.html:运动户外		健身器材	420565	呼啦圈
+list.suning.com/0-336013.html:外设/办公/电脑	157237	电脑外设	336013	平板配件
+list.suning.com/0-263408.html:图书		计算机/网络	263408	数据库
+list.suning.com/0-262687.html:图书		小说	262687	官场
+list.suning.com/0-263047.html:图书		投资理财	263047	理财技巧
+list.suning.com/0-173502.html:外设/办公/电脑	157123	办公打印	173502	墨盒
+list.suning.com/0-164026.html:服装鞋帽	164010	配饰	164026	领带/领结
+list.suning.com/0-20344-0.html:大家电		厨卫/生活电器	20344-0	热水器
+list.suning.com/0-289517.html:服装鞋帽		女装	289517	打底裤
+list.suning.com/0-263531.html:图书		法律	263531	法律考试
+list.suning.com/0-263040.html:图书	262523-0	体育/运动	263040	其它运动
+list.suning.com/0-20104.html:配件/数码/手机	20103	电子教育	20104	点读机/点读笔
+list.suning.com/0-186009.html:外设/办公/电脑	20529	DIY硬件	186009	光驱
+list.suning.com/0-263272.html:图书	262526-0	经济	263272	国际经济
+list.suning.com/0-346869.html:服装鞋帽		男装	346869	男士休闲裤
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-10032.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-10032	HTC
+list.suning.com/0-264220.html:图书		励志与成功	264220	成功/激励
+list.suning.com/0-264276.html:图书	262516-0	美丽装扮	264276	服装搭配
+list.suning.com/0-420544.html:运动户外	420006	运动包/户外包/配件	420544	腰带
+list.suning.com/0-157247.html:外设/办公/电脑	157237	电脑外设	157247	屏幕贴膜
+list.suning.com/0-420060.html:运动户外	420007	体育休闲	420060	羽毛球
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-11164.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-11164	创维
+list.suning.com/0-338024.html:大家电	244009-0	影音	338024	音箱垫/吸音材料
+list.suning.com/0-344341.html:汽车用品		汽车配件	344341	刹车片
+list.suning.com/0-340570.html:服装鞋帽	340548	男鞋	340570	雨靴
+list.suning.com/0-373033.html:图书		经管励志	373033	经济馆
+list.suning.com/0-234503.html:生活电器/厨卫电器		厨房小家电	234503	电热饭盒
+list.suning.com/0-262539.html:图书		传记	262539	文学家
+list.suning.com/0-264182.html:图书		历史	264182	地方史志
+list.suning.com/0-420539.html:运动户外	420006	运动包/户外包/配件	420539	护具
+list.suning.com/0-262628.html:图书	262525-0	家居/休闲游戏	262628	绒线编织
+list.suning.com/0-262633.html:图书	262525-0	家居/休闲游戏	262633	安全常识
+list.suning.com/0-344258.html:箱包/皮具		功能箱包	344258	电脑数码包
+list.suning.com/0-262931.html:图书	262522-0	中小学教辅	262931	小学一年级
+list.suning.com/0-344327.html:汽车用品	344251	系统养护	344327	燃油添加剂
+list.suning.com/0-262675.html:图书		小说	262675	武侠
+list.suning.com/0-344264.html:箱包/皮具		功能箱包	344264	运动休闲
+list.suning.com/0-262966.html:图书	262522-0	中小学教辅	262966	小学二年级
+list.suning.com/0-262864.html:图书		孕产妇/育儿	262864	起名
+channel.suning.com/kechuandaishebei.html:配件/数码/手机		智能设备	420090	智能频道
+list.suning.com/0-420090.html:配件/数码/手机		智能设备	420090	智能家居
+list.suning.com/0-500389.html:酒水饮料/食品保健	500374	咖啡	500389	咖啡伴侣
+list.suning.com/0-20356.html:生活电器/厨卫电器	20320	厨卫大家电	20356	净水器
+list.suning.com/0-373016.html:图书	373004	生活休闲	373016	大众健康馆
+list.suning.com/0-340586.html:服装鞋帽		女装	340586	女士套装
+list.suning.com/0-344291.html:箱包/皮具	344248	精品男包	344291	男士手提包
+list.suning.com/0-20360.html:生活电器/厨卫电器	20359	个护健康	20360	电动剃须刀
+8.suning.com/jczq/:彩票/旅行/充值/游戏		彩票		竞彩足球
+list.suning.com/0-500438.html:酒水饮料/食品保健	500364	米面粮油	500438	面条
+list.suning.com/0-344301.html:箱包/皮具	344250	时尚女包	344301	女士钱包/卡包
+list.suning.com/0-262673.html:图书		小说	262673	言情
+list.suning.com/0-420032.html:运动户外		骑行装备	420032	折叠自行车
+list.suning.com/0-373014.html:图书	373004	生活休闲	373014	旅游馆
+list.suning.com/0-263006.html:图书	264009-0	收藏/鉴赏	263006	收藏随笔
+list.suning.com/0-264131.html:图书	262524-0	教育考试	264131	计算机考试
+list.suning.com/0-20356-0.html:大家电		厨卫/生活电器	20356-0	净水器
+list.suning.com/0-263067.html:图书	262521-0	外语	263067	英语学术著作
+list.suning.com/0-263413.html:图书		计算机/网络	263413	计算机影印版
+list.suning.com/0-31002.html:配件/数码/手机	20084	数码配件	31002	其他配件
+list.suning.com/0-373013.html:图书	373003	文学艺术	373013	艺术馆
+list.suning.com/0-420073.html:运动户外	420007	体育休闲	420073	水上船艇
+list.suning.com/0-20352.html:生活电器/厨卫电器	20320	厨卫大家电	20352	洁身器
+list.suning.com/0-125008.html:配件/数码/手机	20016	手机配件	125008	便携/蓝牙音箱
+list.suning.com/0-161563.html:家装建材/厨具/家具	160518	韩国馆	161563	清洁用品
+list.suning.com/0-420570.html:运动户外	420008	户外鞋服	420570	速干衣/裤
+list.suning.com/0-500490.html:酒水饮料/食品保健	500365	厨房调料	500490	火锅调料
+list.suning.com/0-263022.html:图书	262523-0	体育/运动	263022	田径/体操
+list.suning.com/0-264128.html:图书	262524-0	教育考试	264128	外语考试
+list.suning.com/0-262686.html:图书		小说	262686	家庭/婚姻
+list.suning.com/0-262699.html:图书	262519-0	医学	262699	预防医学/卫生学
+list.suning.com/0-487503.html:生活电器/厨卫电器		厨房小家电	487503	辅食料理机
+list.suning.com/0-262567.html:图书	262520-0	地图/地理	262567	美洲地图
+list.suning.com/0-500376.html:酒水饮料/食品保健	500375	茶叶	500376	茶礼盒
+8.suning.com/k3/:彩票/旅行/充值/游戏		彩票		快三
+list.suning.com/0-20337.html:生活电器/厨卫电器		厨房小家电	20337	多用途锅
+list.suning.com/0-500386.html:酒水饮料/食品保健	500375	茶叶	500386	黄茶
+list.suning.com/0-500434.html:酒水饮料/食品保健	500364	米面粮油	500434	杂粮
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-10011.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-10011	三星
+list.suning.com/0-500687.html:酒水饮料/食品保健	500370	牛奶乳品	500687	奶油/炼乳
+list.suning.com/0-340566.html:服装鞋帽	340548	男鞋	340566	靴子
+list.suning.com/0-264050.html:图书	262515-0	建筑	264050	建筑施工与监理
+list.suning.com/0-262547.html:图书		传记	262547	科学家
+list.suning.com/0-315698.html:美妆		眼部	315698	睫毛膏
+list.suning.com/0-340522.html:家装建材/厨具/家具	32002	家装建材	340522	基础建材
+list.suning.com/0-336019.html:外设/办公/电脑	157123	办公打印	336019	包装耗材
+list.suning.com/0-244023.html:大家电		大家电配件	244023	冰箱配件
+list.suning.com/0-321006.html:图书		童书馆	321006	宝宝营养食谱
+list.suning.com/0-500558.html:家装建材/厨具/家具		宠物生活	500558	宠物玩具
+list.suning.com/0-20017.html:配件/数码/手机	20016	手机配件	20017	手机电池
+list.suning.com/0-233008.html:服装鞋帽	233003	内衣	233008	美体塑身
+list.suning.com/0-20394.html:生活电器/厨卫电器	20366	生活小家电	20394	空气净化器
+list.suning.com/0-263423.html:图书		计算机/网络	263423	IT项目管理
+list.suning.com/0-500666.html:大家电		苏宁帮客	500666	上门服务卡
+list.suning.com/0-264121.html:图书	262527-0	教材	264121	中职教材
+list.suning.com/0-500487.html:酒水饮料/食品保健	500365	厨房调料	500487	食醋
+list.suning.com/0-500551.html:家装建材/厨具/家具	251027	餐厨用具	500551	水具/水杯
+list.suning.com/0-315689.html:美妆	315679	面部底妆	315689	BB/CC霜
+list.suning.com/0-340588.html:服装鞋帽		女装	340588	短外套
+list.suning.com/0-264315.html:图书		少儿	264315	少儿英语
+list.suning.com/0-500388.html:酒水饮料/食品保健	500374	咖啡	500388	速溶咖啡
+list.suning.com/0-420575.html:运动户外	420008	户外鞋服	420575	凉鞋/拖鞋
+list.suning.com/0-420536.html:运动户外	420005	运动服	420536	运动套装
+list.suning.com/0-262627.html:图书	262525-0	家居/休闲游戏	262627	生活窍门
+list.suning.com/0-262818.html:图书		艺术	262818	艺术类考试
+list.suning.com/0-263165.html:图书		文化	263165	中国文化
+list.suning.com/0-451506.html:珠宝/钟表/礼品	451503	钟表	451506	钟表配件
+list.suning.com/0-263579.html:图书	262528-0	管理	263579	管理学工具书
+list.suning.com/0-263041.html:图书		投资理财	263041	证券/股票
+list.suning.com/0-340600.html:服装鞋帽	164010	配饰	340600	纽扣
+list.suning.com/0-262592.html:图书	264008-0	动漫/幽默	262592	小说/名著漫画版
+list.suning.com/0-262664.html:图书		文学	262664	民间文学
+list.suning.com/0-344349.html:汽车用品	344254	个性改装	344349	踏板
+list.suning.com/0-315526.html:母婴		图书	315526	孕产妈妈
+list.suning.com/0-263520.html:图书		法律	263520	司法案例
+list.suning.com/0-340587.html:服装鞋帽		女装	340587	女士牛仔服
+list.suning.com/0-500531.html:酒水饮料/食品保健		生鲜食品	500531	新鲜蔬菜
+list.suning.com/0-263148.html:图书	262521-0	外语	263148	对外汉语
+list.suning.com/0-344318.html:汽车用品		内饰精品	344318	抱枕/腰靠
+list.suning.com/0-262946.html:图书	262522-0	中小学教辅	262946	小学四年级
+list.suning.com/0-263415.html:图书		计算机/网络	263415	计算机理论
+list.suning.com/0-340026.html:珠宝/钟表/礼品	161594	礼品	340026	酒壶/烟具
+list.suning.com/0-20374.html:生活电器/厨卫电器	20366	生活小家电	20374	暖手暖脚宝
+list.suning.com/0-420039.html:运动户外		骑行装备	420039	单车装备
+list.suning.com/0-340027.html:珠宝/钟表/礼品	161594	礼品	340027	礼盒套装
+list.suning.com/0-262558.html:图书	262514-0	大众健康	262558	女性
+list.suning.com/0-185501.html:配件/数码/手机	20090	影音电子	185501	影音附件
+list.suning.com/0-340598.html:服装鞋帽	164010	配饰	340598	耳套、耳罩
+list.suning.com/0-330012.html:美妆		卸妆	330012	卸妆乳
+list.suning.com/0-344367.html:汽车用品	344255	安全/自驾	344367	应急救援
+list.suning.com/0-500591.html:家装建材/厨具/家具		生活用纸	500591	抽纸
+list.suning.com/0-262612.html:图书	262529-0	工具书	262612	文学鉴赏辞典
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-27993.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-27993	洗干一体机
+list.suning.com/0-262535.html:图书		传记	262535	政治人物
+list.suning.com/0-373028.html:图书		教育学习	373028	教育考试馆
+list.suning.com/0-262690.html:图书		小说	262690	财经
+list.suning.com/0-420550.html:运动户外	420006	运动包/户外包/配件	420550	腰包/卡包/配件包
+list.suning.com/0-420038.html:运动户外		骑行装备	420038	电动车配件
+list.suning.com/0-420518.html:运动户外	420005	运动服	420518	运动T恤
+list.suning.com/0-500333.html:母婴	500325-0	宝宝寝居	500333	防尿用品
+list.suning.com/0-340576.html:服装鞋帽	340557	女鞋	340576	居家鞋/室内拖鞋
+list.suning.com/0-344345.html:汽车用品		汽车配件	344345	传动带
+list.suning.com/0-344374.html:珠宝/钟表/礼品	161594	礼品	344374	礼卡礼券
+list.suning.com/0-431505-0-0-0-0-0-0-0-0-125530.html:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-125530	2P空调
+list.suning.com/0-20006-0-1-0-0-0-0-0-0-10328.html:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-10328	先锋手机
+list.suning.com/0-262666.html:图书		小说	262666	作品集
+list.suning.com/0-165005.html:外设/办公/电脑	157237	电脑外设	165005	手写板
+list.suning.com/0-161560.html:家装建材/厨具/家具	160518	韩国馆	161560	卫浴用品
+list.suning.com/0-315008.html:母婴		海外直通车	315008	哺喂用具
+list.suning.com/0-315706.html:美妆		唇部	315706	唇笔/线
+list.suning.com/0-420076.html:运动户外	420007	体育休闲	420076	滑翔伞
+list.suning.com/0-315695.html:美妆	315679	面部底妆	315695	腮红
+list.suning.com/0-315058.html:母婴		童装童鞋	315058	宝宝寝居
+www.manzuo.com/liren?campaign=suning_shouye_daohang:彩票/旅行/充值/游戏		生活团购		丽人
+list.suning.com/0-344295.html:箱包/皮具	344250	时尚女包	344295	女士单肩包
+list.suning.com/0-420041.html:运动户外		骑行装备	420041	仪表/配饰
+list.suning.com/0-263336.html:图书		自然科学	263336	自然科学总论
+list.suning.com/0-318012.html:图书		童书馆	318012	儿童营养饮食
+list.suning.com/0-500492.html:酒水饮料/食品保健	500365	厨房调料	500492	调味酱
+list.suning.com/0-263025.html:图书	262523-0	体育/运动	263025	跆拳道拳击
+list.suning.com/0-186004.html:外设/办公/电脑	20529	DIY硬件	186004	散热器
+list.suning.com/0-344346.html:汽车用品		汽车配件	344346	电瓶
+list.suning.com/0-425010.html:家装建材/厨具/家具	423507	布艺软饰	425010	地毯地垫
+list.suning.com/0-264241.html:图书		旅游	264241	旅游攻略
+list.suning.com/0-344259.html:汽车用品	343508	电子/电器	344259	行车记录仪
+list.suning.com/0-247003.html:配件/数码/手机		摄影摄像	247003	拍立得
+list.suning.com/0-344331.html:汽车用品		清洁美容	344331	洗车机
+list.suning.com/0-344356.html:汽车用品	344254	个性改装	344356	包围
+list.suning.com/0-344300.html:汽车用品		坐垫/脚垫	344300	专车专用座垫
+list.suning.com/0-243505-0-0-0-0-0-0-0-0-119075.html:大家电	293006	电视	243505-0-0-0-0-0-0-0-0-119075	42-43英寸
+list.suning.com/0-263266.html:图书	262526-0	经济	263266	经济学工具书
+list.suning.com/0-258009.html:外设/办公/电脑		电脑整机	258009	台式电脑
+list.suning.com/0-264321.html:图书		少儿	264321	11-14岁
+list.suning.com/0-263019.html:图书	262523-0	体育/运动	263019	五子棋
+list.suning.com/0-263571.html:图书	262528-0	管理	263571	一般管理学
+list.suning.com/0-263409.html:图书		计算机/网络	263409	软件工程/开发项目管理
+list.suning.com/0-262682.html:图书		小说	262682	历史小说
+list.suning.com/0-263008.html:图书	264009-0	收藏/鉴赏	263008	钱币
+list.suning.com/0-163001.html:珠宝/钟表/礼品	161594	礼品	163001	瑞士军刀
+list.suning.com/0-313121.html:母婴		玩具	313121	适用年龄商品分类
+list.suning.com/0-313042.html:母婴	313037-0	喂养用品	313042	母婴家电
+list.suning.com/0-264291.html:图书	262517-0	农业/林业	264291	农作物
+list.suning.com/0-20095.html:配件/数码/手机	20090	影音电子	20095	录音笔
+list.suning.com/0-344362.html:汽车用品	344255	安全/自驾	344362	车衣
+list.suning.com/0-420552.html:运动户外	420006	运动包/户外包/配件	420552	防水包/防雨罩
+list.suning.com/0-373034.html:图书		经管励志	373034	投资理财馆
+list.suning.com/0-262559.html:图书	262514-0	大众健康	262559	男性
+list.suning.com/0-500463.html:酒水饮料/食品保健		冲调饮品	500463	天然粉 
+list.suning.com/0-344353.html:汽车用品	344254	个性改装	344353	挡泥板
+list.suning.com/0-420545.html:运动户外	420006	运动包/户外包/配件	420545	运动毛巾
+list.suning.com/0-344358.html:汽车用品	344254	个性改装	344358	轮毂
+list.suning.com/0-264211.html:图书		励志与成功	264211	男性励志
+list.suning.com/0-264240.html:图书		旅游	264240	旅游理论与实务
+list.suning.com/0-315701.html:美妆		眼部	315701	眼线
+list.suning.com/0-205502.html:家装建材/厨具/家具		生活日用	205502	晴雨用具
+list.suning.com/0-263534.html:图书		法律	263534	法律成教/职教/培训教材
+list.suning.com/0-431505.html:大家电	431504	空调	431505	家用空调
+list.suning.com/0-315704.html:美妆		唇部	315704	唇彩
+list.suning.com/0-440504.html:母婴		奶粉	440504	孕妈奶粉
+list.suning.com/0-420034.html:运动户外		骑行装备	420034	死飞
+list.suning.com/0-500515.html:酒水饮料/食品保健		休闲食品	500515	肉松/肉脯
+list.suning.com/0-500561.html:家装建材/厨具/家具		宠物生活	500561	宠物服饰
+list.suning.com/0-262550.html:图书		传记	262550	财经人物
+list.suning.com/0-157160.html:外设/办公/电脑		网络设备	157160	交换机
+list.suning.com/0-25507.html:配件/数码/手机	20084	数码配件	25507	存储卡
+list.suning.com/0-373021.html:图书	373006	科技	373021	科普馆
+list.suning.com/0-264322.html:图书		少儿	264322	0-2岁
+list.suning.com/0-500594.html:家装建材/厨具/家具		生活用纸	500594	湿巾纸
+list.suning.com/0-244005.html:大家电	243504	冰箱/冷柜	244005	冰箱
+list.suning.com/0-264205.html:图书		励志与成功	264205	人在职场
+list.suning.com/0-336012.html:外设/办公/电脑		办公文仪	336012	学生文具
+list.suning.com/0-264268.html:图书	262516-0	美丽装扮	264268	美容瘦身饮食
+list.suning.com/0-263572.html:图书	262528-0	管理	263572	市场/营销
+list.suning.com/0-265003.html:图书	262512-0	工业技术	265003	原子能技术
+list.suning.com/0-262986.html:图书	262522-0	中小学教辅	262986	竞赛/奥赛
+list.suning.com/0-157041.html:珠宝/钟表/礼品		乐器	157041	打击乐器
+list.suning.com/0-420529.html:运动户外	420005	运动服	420529	运动马甲
+list.suning.com/0-264265.html:图书	262516-0	美丽装扮	264265	饰品/配饰
+list.suning.com/0-420074.html:运动户外	420007	体育休闲	420074	潜水装备
+list.suning.com/0-500502.html:酒水饮料/食品保健	500366	南北干货	500502	枣子
+list.suning.com/0-199501.html:配件/数码/手机	20084	数码配件	199501	电池/充电器
+list.suning.com/0-262680.html:图书		小说	262680	女性小说
+list.suning.com/0-264243.html:图书		旅游	264243	户外探险
+list.suning.com/0-500381.html:酒水饮料/食品保健	500375	茶叶	500381	花草茶
+list.suning.com/0-344283.html:箱包/皮具		功能箱包	344283	防水袋
+list.suning.com/0-420516.html:运动户外		运动鞋	420516	排球鞋
+list.suning.com/0-410507.html:配件/数码/手机		智能设备	410507	运动跟踪
+list.suning.com/0-262573.html:图书	262520-0	地图/地理	262573	其他地图
+list.suning.com/0-419507.html:彩票/旅行/充值/游戏		邮费	419507	邮费
+list.suning.com/0-255003.html:家装建材/厨具/家具		生活日用	255003	驱蚊驱虫
+list.suning.com/0-264273.html:图书	262516-0	美丽装扮	264273	精油/香水
+list.suning.com/0-420522.html:运动户外	420005	运动服	420522	裙装
+list.suning.com/0-500601.html:家装建材/厨具/家具		生活用纸	500601	成人纸尿裤
+list.suning.com/0-500877.html:母婴		童车童床	500877	儿童滑板
+list.suning.com/0-263420.html:图书		计算机/网络	263420	地理信息管理系统(GIS)
+list.suning.com/0-425503.html:配件/数码/手机		运营商	425503	宽带
+list.suning.com/0-316053.html:美妆	315686	甲油卸甲	316053	护甲油
+list.suning.com/0-420049.html:运动户外		垂钓用品	420049	鱼线
+list.suning.com/0-20361.html:生活电器/厨卫电器	20359	个护健康	20361	剃/脱毛器
+list.suning.com/0-420576.html:运动户外	420008	户外鞋服	420576	徒步鞋
+list.suning.com/0-420527.html:运动户外	420005	运动服	420527	运动POLO衫
+list.suning.com/0-420080.html:运动户外	420007	体育休闲	420080	武术搏击
+list.suning.com/0-344310.html:汽车用品		内饰精品	344310	车用炭包
+list.suning.com/0-420070.html:运动户外	420007	体育休闲	420070	舞蹈用品
+list.suning.com/0-340556.html:服装鞋帽	233003	内衣	340556	抹胸
+list.suning.com/0-262920.html:图书	262522-0	中小学教辅	262920	英语阅读
+list.suning.com/0-420563.html:运动户外		健身器材	420563	哑铃
+list.suning.com/0-420520.html:运动户外	420005	运动服	420520	运动长裤
+list.suning.com/0-344305.html:汽车用品		坐垫/脚垫	344305	专车专用脚垫
+list.suning.com/0-420559.html:运动户外		健身器材	420559	仰卧板/健腹板
+list.suning.com/0-264221.html:图书		励志与成功	264221	财商/财富智慧
+list.suning.com/0-420567.html:运动户外		健身器材	420567	计步器
+list.suning.com/0-265014.html:图书	262512-0	工业技术	265014	机械仪表工业
+list.suning.com/0-169502.html:外设/办公/电脑	20529	DIY硬件	169502	内存
+list.suning.com/0-344359.html:汽车用品	344254	个性改装	344359	排气管
+list.suning.com/0-263097.html:图书	262521-0	外语	263097	意大利语
+list.suning.com/0-500510.html:酒水饮料/食品保健		休闲食品	500510	龟苓膏 
+list.suning.com/0-244008-0-0-0-0-0-0-0-0-45360.html:大家电	243504	冰箱/冷柜	244008-0-0-0-0-0-0-0-0-45360	立式冷柜
+list.suning.com/0-263049.html:图书		投资理财	263049	黄金投资
+list.suning.com/0-438503.html:生活电器/厨卫电器	20366	生活小家电	438503	欧式快热炉
+list.suning.com/0-243505-0-0-0-0-0-0-0-0-27496.html:大家电	293006	电视	243505-0-0-0-0-0-0-0-0-27496	60英寸
+list.suning.com/0-265015.html:图书	262512-0	工业技术	265015	环境科学
+list.suning.com/0-316049.html:美妆	315685	美妆工具	316049	化妆镜
+list.suning.com/0-500461.html:酒水饮料/食品保健		冲调饮品	500461	成人奶粉
+list.suning.com/0-263323.html:图书		科普	263323	星体观测
+list.suning.com/0-243505-0-1-0-0-0-0-0-0-10070.html:大家电	293006	电视	243505-0-1-0-0-0-0-0-0-10070	夏普
+list.suning.com/0-340567.html:服装鞋帽	340548	男鞋	340567	居家鞋/室内拖鞋
+list.suning.com/0-420512.html:运动户外		运动鞋	420512	乒乓球鞋
+list.suning.com/0-425008.html:家装建材/厨具/家具	423507	布艺软饰	425008	床品布料
+list.suning.com/0-264289.html:图书	262517-0	农业/林业	264289	畜牧、狩猎、蚕、蜂
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-23384.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-23384	波轮
+list.suning.com/0-500501.html:酒水饮料/食品保健	500366	南北干货	500501	白木耳/银耳
+list.suning.com/0-264307.html:图书		少儿	264307	阅读工具书
+list.suning.com/0-500489.html:酒水饮料/食品保健	500365	厨房调料	500489	鸡精/味精
+list.suning.com/0-294005.html:配件/数码/手机		运营商	294005	0元购机
+list.suning.com/0-264218.html:图书		励志与成功	264218	处世学
+list.suning.com/0-262688.html:图书		小说	262688	港澳台小说
+list.suning.com/0-263088.html:图书	262521-0	外语	263088	英语教具
+list.suning.com/0-500332.html:母婴	500325-0	宝宝寝居	500332	床品
+game.suning.com/game-web/gameHall.htm:彩票/旅行/充值/游戏		游戏		网页游戏
+list.suning.com/0-233004.html:服装鞋帽	233003	内衣	233004	文胸
+list.suning.com/0-264298.html:图书		青春文学	264298	悬疑/惊悚
+list.suning.com/0-264301.html:图书		青春文学	264301	叛逆/成长
+list.suning.com/0-338019.html:大家电	293006	电视	338019	商用电视
+list.suning.com/0-340583.html:服装鞋帽		男装	340583	中山装
+list.suning.com/0-336010.html:外设/办公/电脑		电脑整机	336010	服务器/工作站
+list.suning.com/0-264129.html:图书	262524-0	教育考试	264129	考研
+list.suning.com/0-500677.html:外设/办公/电脑	20529	DIY硬件	500677	固态硬盘
+list.suning.com/0-263037.html:图书	262523-0	体育/运动	263037	奥林匹克
+list.suning.com/0-161553.html:家装建材/厨具/家具	160518	韩国馆	161553	收纳/晾晒
+list.suning.com/0-264314.html:图书		少儿	264314	少儿原版书
+list.suning.com/0-500686.html:配件/数码/手机		智能设备	500686	增强现实
+list.suning.com/0-161744-0.html:珠宝/钟表/礼品	161594	礼品	161744-0	眼镜
+list.suning.com/0-262679.html:图书		小说	262679	社会
+list.suning.com/0-263168.html:图书		文化	263168	文化理论
+list.suning.com/0-344296.html:箱包/皮具	344250	时尚女包	344296	女士斜挎包
+list.suning.com/0-264126.html:图书	262524-0	教育考试	264126	艺术、体育类水平考试
+list.suning.com/0-263046.html:图书		投资理财	263046	纳税
+list.suning.com/0-265010.html:图书	262512-0	工业技术	265010	汽车与交通运输
+list.suning.com/0-373022.html:图书	373006	科技	373022	工业技术馆
+list.suning.com/0-373504.html:服装鞋帽	164010	配饰	373504	毛线/制衣面料
+list.suning.com/0-315535.html:母婴		图书	315535	育儿/亲子
+list.suning.com/0-20323.html:生活电器/厨卫电器	20320	厨卫大家电	20323	消毒柜
+list.suning.com/0-344319.html:汽车用品		内饰精品	344319	收纳用品
+list.suning.com/0-500447.html:酒水饮料/食品保健		饮料饮品	500447	碳酸饮料
+list.suning.com/0-263026.html:图书	262523-0	体育/运动	263026	台球
+list.suning.com/0-315054.html:母婴		童装童鞋	315054	婴幼儿服饰
+list.suning.com/0-420546.html:运动户外	420006	运动包/户外包/配件	420546	运动水壶
+list.suning.com/0-420519.html:运动户外	420005	运动服	420519	卫衣
+list.suning.com/0-263174.html:图书		文化	263174	地域文化
+list.suning.com/0-264270.html:图书	262516-0	美丽装扮	264270	美容/护肤
+list.suning.com/0-263171.html:图书		文化	263171	神秘现象
+list.suning.com/0-500398.html:酒水饮料/食品保健	500373	酒	500398	啤酒
+list.suning.com/0-161744-0-0-0-0-0-0-0-0-26946.html:珠宝/钟表/礼品	161594	礼品	161744-0-0-0-0-0-0-0-0-26946	太阳镜
+list.suning.com/0-373010.html:图书	373003	文学艺术	373010	小说馆
+list.suning.com/0-185002.html:外设/办公/电脑	157123	办公打印	185002	复印/复合机
+list.suning.com/0-20401.html:生活电器/厨卫电器	20366	生活小家电	20401	毛球修剪器
+list.suning.com/0-264123.html:图书	262527-0	教材	264123	高职高专教材
+list.suning.com/0-420072.html:运动户外	420007	体育休闲	420072	大型场馆设施
+list.suning.com/0-263337.html:图书		自然科学	263337	物理学
+list.suning.com/0-500317.html:配件/数码/手机		摄影摄像	500317	航拍摄像配件
+channel.suning.com/dianshiyingyin.html:大家电	293006	电视	338021	彩电频道
+list.suning.com/0-344285.html:箱包/皮具		功能箱包	344285	箱包配件
+list.suning.com/0-346877.html:服装鞋帽		女装	346877	女士T恤
+list.suning.com/0-420071.html:运动户外	420007	体育休闲	420071	田径运动
+list.suning.com/0-263414.html:图书		计算机/网络	263414	计算机体系结构
+list.suning.com/0-344342.html:汽车用品		汽车配件	344342	刹车盘
+list.suning.com/0-344297.html:箱包/皮具	344250	时尚女包	344297	女士双肩包
+search.suning.com/vr%E7%9C%BC%E9%95%9C/:配件/数码/手机		智能设备	440513	VR眼镜
+list.suning.com/0-263404.html:图书		计算机/网络	263404	信息安全
+list.suning.com/0-263017.html:图书	262523-0	体育/运动	263017	舞蹈活动
+list.suning.com/0-264389.html:图书	264010-0	社会科学	264389	社会学
+list.suning.com/0-249506.html:外设/办公/电脑	157237	电脑外设	249506	电脑软件
+list.suning.com/0-409503.html:大家电	244009-0	影音	409503	观影卡
+list.suning.com/0-340029.html:珠宝/钟表/礼品		乐器	340029	弦乐器
+list.suning.com/0-264290.html:图书	262517-0	农业/林业	264290	水产、渔业
+list.suning.com/0-265004.html:图书	262512-0	工业技术	265004	一般工业技术
+list.suning.com/0-262663.html:图书		文学	262663	外国诗歌
+list.suning.com/0-264047.html:图书	262515-0	建筑	264047	室内设计/装潢装修
+list.suning.com/0-336521.html:配件/数码/手机	20016	手机配件	336521	数据线
+list.suning.com/0-500499.html:酒水饮料/食品保健	500366	南北干货	500499	菌菇类
+list.suning.com/0-431505-0-0-0-0-0-0-0-0-125483.html:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-125483	变频空调
+list.suning.com/0-262540.html:图书	264009-0	收藏/鉴赏	262540	玉器
+list.suning.com/0-500314.html:母婴		童车童床	500314	儿童安全座椅
+list.suning.com/0-373030.html:图书		教育学习	373030	工具书馆
+list.suning.com/0-340574.html:服装鞋帽	340557	女鞋	340574	靴子
+list.suning.com/0-262613.html:图书	262529-0	工具书	262613	汉语工具书
+list.suning.com/0-243505-0-0-0-0-0-0-0-0-119074.html:大家电	293006	电视	243505-0-0-0-0-0-0-0-0-119074	39-40英寸
+list.suning.com/0-262866.html:图书		孕产妇/育儿	262866	儿童疾病防治
+list.suning.com/0-420037.html:运动户外		骑行装备	420037	骑行服饰
+list.suning.com/0-420511.html:运动户外		运动鞋	420511	羽毛球鞋
+list.suning.com/0-420557.html:运动户外		健身器材	420557	健身车
+list.suning.com/0-500547.html:家装建材/厨具/家具		清洁用品	500547	皮具护理
+list.suning.com/0-315007.html:母婴		海外直通车	315007	洗护日用
+list.suning.com/0-420043.html:运动户外		骑行装备	420043	车锁
+list.suning.com/0-244008.html:大家电	243504	冰箱/冷柜	244008	冷柜/冰吧
+list.suning.com/0-264177.html:图书		历史	264177	史料典籍
+list.suning.com/0-262724.html:图书	262519-0	医学	262724	医技学
+list.suning.com/0-262691.html:图书	262519-0	医学	262691	中医
+list.suning.com/0-20064.html:配件/数码/手机		摄影摄像	20064	单反相机
+list.suning.com/0-337506.html:生活电器/厨卫电器	20320	厨卫大家电	337506	洗碗机
+list.suning.com/0-20328.html:生活电器/厨卫电器		厨房小家电	20328	电磁炉
+list.suning.com/0-264202.html:图书		励志与成功	264202	智商/智谋
+list.suning.com/0-420047.html:运动户外		垂钓用品	420047	钓竿
+list.suning.com/0-262672.html:图书		小说	262672	影视小说
+list.suning.com/0-459517.html:母婴	459516	母婴服务	459517	孕产服务
+app.suning.com/softwarelist.php?gid=1:彩票/旅行/充值/游戏		手机应用		手机应用
+list.suning.com/0-265016.html:图书	262512-0	工业技术	265016	化学工业
+list.suning.com/0-263113.html:图书	262521-0	外语	263113	西班牙语
+list.suning.com/0-376003.html:彩票/旅行/充值/游戏		生活团购	376003	电影
+list.suning.com/0-264303.html:图书		青春文学	264303	爆笑/无厘头
+list.suning.com/0-420020.html:运动户外	420009	户外装备	420020	便携桌椅床
+list.suning.com/0-262655.html:图书		文学	262655	中国现当代随笔
+list.suning.com/0-344370-0-0-0-0-0-0-0-0-29309.html:汽车用品	344257	整车/服务	344370-0-0-0-0-0-0-0-0-29309	整车定金销售
+list.suning.com/0-262572.html:图书	262520-0	地图/地理	262572	地理
+list.suning.com/0-373503.html:服装鞋帽	164010	配饰	373503	鞋垫/鞋配件
+list.suning.com/0-264299.html:图书		青春文学	264299	玄幻/新武侠/魔幻/科幻
+list.suning.com/0-344332.html:汽车用品		清洁美容	344332	车蜡
+list.suning.com/0-157174.html:外设/办公/电脑		音像制品	157174	唱片
+list.suning.com/0-420585.html:运动户外	420008	户外鞋服	420585	户外袜
+list.suning.com/0-262626.html:图书	262525-0	家居/休闲游戏	262626	手工DIY
+list.suning.com/0-262907.html:图书	262522-0	中小学教辅	262907	中考
+list.suning.com/0-289503.html:服装鞋帽	164010	配饰	289503	女士腰带
+list.suning.com/0-500030.html:生活电器/厨卫电器		厨房小家电	500030	养生壶
+list.suning.com/0-420064.html:运动户外	420007	体育休闲	420064	高尔夫
+list.suning.com/0-500425.html:酒水饮料/食品保健		营养保健	500425	番茄红素
+list.suning.com/0-313038.html:母婴	313037-0	喂养用品	313038	喂养用品
+list.suning.com/0-289518.html:服装鞋帽		女装	289518	皮草
+list.suning.com/0-249505.html:外设/办公/电脑	157237	电脑外设	249505	精品外设
+list.suning.com/0-249510.html:外设/办公/电脑		办公文仪	249510	其他办公用品
+list.suning.com/0-420077.html:运动户外	420007	体育休闲	420077	航海用品
+list.suning.com/0-263053.html:图书	262521-0	外语	263053	中小学英语课外学习
+list.suning.com/0-244006.html:大家电		洗（干）衣机	244006	洗衣机
+list.suning.com/0-459519.html:母婴	459516	母婴服务	459519	亲子服务
+list.suning.com/0-500465.html:酒水饮料/食品保健		冲调饮品	500465	奶茶
+list.suning.com/0-373020.html:图书	373006	科技	373020	建筑馆
+list.suning.com/0-500559.html:家装建材/厨具/家具		宠物生活	500559	宠物日用
+pindao.suning.com/city/bingxi.htm:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-24674	冰洗频道
+list.suning.com/0-376503.html:外设/办公/电脑		电脑整机	376503	组装电脑
+list.suning.com/0-263173.html:图书		文化	263173	古籍整理
+list.suning.com/0-92520.html:生活电器/厨卫电器	20359	个护健康	92520	按摩器
+list.suning.com/0-243505-0-0-0-0-0-0-0-0-30757.html:大家电	293006	电视	243505-0-0-0-0-0-0-0-0-30757	60英寸以上
+www.suning.com/emall/hyj_10052_10051_9173_.html:配件/数码/手机	20002	手机通讯	20006	合约机
+list.suning.com/0-263339.html:图书		自然科学	263339	数学
+list.suning.com/0-265006.html:图书	262512-0	工业技术	265006	武器工业
+list.suning.com/0-263050.html:图书		投资理财	263050	购房置业
+list.suning.com/0-344308.html:汽车用品		坐垫/脚垫	344308	专车专用后备箱垫
+list.suning.com/0-20323-0.html:大家电		厨卫/生活电器	20323-0	消毒柜
+list.suning.com/0-263584.html:图书	262528-0	管理	263584	WTO
+jipiao.suning.com/international:彩票/旅行/充值/游戏		机票		国际机票
+list.suning.com/0-344323.html:汽车用品		内饰精品	344323	防滑垫/指南球
+list.suning.com/0-263524.html:图书		法律	263524	经济法
+list.suning.com/0-244010.html:大家电	244009-0	影音	244010	家庭影院
+list.suning.com/0-341023.html:家装建材/厨具/家具	32002	家装建材	341023	电子/电工电料
+list.suning.com/0-420581.html:运动户外	420008	户外鞋服	420581	抓绒衣/裤
+list.suning.com/0-262961.html:图书	262522-0	中小学教辅	262961	小学六年级
+list.suning.com/0-262551.html:图书		传记	262551	其他传记
+list.suning.com/0-262784.html:图书	262519-0	医学	262784	儿科学
+list.suning.com/0-420528.html:运动户外	420005	运动服	420528	运动牛仔裤
+list.suning.com/0-262598.html:图书	264008-0	动漫/幽默	262598	大陆漫画
+list.suning.com/0-316050.html:美妆	315685	美妆工具	316050	化妆包
+list.suning.com/0-500484.html:酒水饮料/食品保健	500365	厨房调料	500484	烘焙辅料
+list.suning.com/0-340596.html:服装鞋帽	164010	配饰	340596	口罩
+list.suning.com/0-202001.html:家装建材/厨具/家具	161645	家纺	202001	凉席/凉枕
+list.suning.com/0-500526.html:酒水饮料/食品保健	500367	方便速食	500526	方便粉丝 
+list.suning.com/0-336021.html:美妆	315679	面部底妆	336021	粉底/遮暇
+list.suning.com/0-454003.html:珠宝/钟表/礼品	451503	钟表	454003	男表
+list.suning.com/0-157250.html:外设/办公/电脑	157237	电脑外设	157250	鼠标
+list.suning.com/0-195005.html:外设/办公/电脑		办公文仪	195005	保险柜
+list.suning.com/0-315120.html:母婴		童车童床	315120	儿童家居
+list.suning.com/0-420036.html:运动户外		骑行装备	420036	电动车
+sh.suning.com/life/2-1.html:彩票/旅行/充值/游戏		生活缴费	1	燃气费
+list.suning.com/0-264388.html:图书	264010-0	社会科学	264388	社科外文原版书
+list.suning.com/0-451505.html:珠宝/钟表/礼品	451503	钟表	451505	闹钟挂钟
+list.suning.com/0-444503.html:彩票/旅行/充值/游戏		礼品卡	444503	电子卡
+list.suning.com/0-262617.html:图书		家庭教育	262617	素质教育
+list.suning.com/0-262629.html:图书	262525-0	家居/休闲游戏	262629	品质生活
+list.suning.com/0-262557.html:图书	262514-0	大众健康	262557	心理健康
+list.suning.com/0-500495.html:酒水饮料/食品保健		食品票券	500495	面包甜品券
+list.suning.com/0-410505.html:配件/数码/手机		智能设备	410505	智能手环
+8.suning.com/jclq/:彩票/旅行/充值/游戏		彩票		竞彩篮球
+list.suning.com/0-262555.html:图书	262514-0	大众健康	262555	饮食营养食疗
+list.suning.com/0-344320.html:汽车用品		内饰精品	344320	纸巾盒/CD袋
+list.suning.com/0-420087.html:配件/数码/手机		智能设备	420087	智能安防
+list.suning.com/0-20367.html:生活电器/厨卫电器	20366	生活小家电	20367	空调扇
+list.suning.com/0-263325.html:图书		科普	263325	人类
+list.suning.com/0-376004.html:彩票/旅行/充值/游戏		生活团购	376004	食品酒水
+list.suning.com/0-164034.html:服装鞋帽	164010	配饰	164034	手套
+list.suning.com/0-264271.html:图书	262516-0	美丽装扮	264271	美丽秘籍
+list.suning.com/0-459518.html:母婴	459516	母婴服务	459518	婴幼教育
+list.suning.com/0-263265.html:图书	262526-0	经济	263265	经济学理论
+list.suning.com/0-213005.html:家装建材/厨具/家具	180501	成人用品	213005	人体润滑
+list.suning.com/0-264512.html:图书	262522-0	中小学教辅	264512	高中二年级
+list.suning.com/0-318006.html:图书		童书馆	318006	玩具书
+list.suning.com/0-458503.html:家装建材/厨具/家具		生活日用	458503	鲜花速递
+list.suning.com/0-344314.html:汽车用品		内饰精品	344314	挂饰/摆饰
+www.manzuo.com/meishi?campaign=suning_shouye_daohang:彩票/旅行/充值/游戏		生活团购		美食
+list.suning.com/0-263574.html:图书	262528-0	管理	263574	商业史传
+list.suning.com/0-264386.html:图书	264010-0	社会科学	264386	文化人类学
+list.suning.com/0-318005.html:图书		童书馆	318005	图画书
+list.suning.com/0-186008.html:外设/办公/电脑	20529	DIY硬件	186008	硬盘
+list.suning.com/0-264214.html:图书		励志与成功	264214	励志小品
+list.suning.com/0-346871.html:服装鞋帽		男装	346871	男士POLO衫
+list.suning.com/0-179501.html:外设/办公/电脑		办公耗材	179501	粉仓
+list.suning.com/0-344280.html:汽车用品	343508	电子/电器	344280	电子配件
+list.suning.com/0-263045.html:图书		投资理财	263045	女性理财
+list.suning.com/0-340552.html:服装鞋帽	233003	内衣	340552	男士家居服/睡衣
+list.suning.com/0-262634.html:图书	262525-0	家居/休闲游戏	262634	爱车一族
+list.suning.com/0-500876.html:母婴		童车童床	500876	童车配件
+list.suning.com/0-263334.html:图书		科普	263334	地震
+list.suning.com/0-500522.html:酒水饮料/食品保健	500367	方便速食	500522	方便面
+list.suning.com/0-20333-0.html:大家电		厨卫/生活电器	20333-0	豆浆机
+list.suning.com/0-235009.html:外设/办公/电脑		办公文仪	235009	展示用品
+list.suning.com/0-500420.html:酒水饮料/食品保健		营养保健	500420	膳食补充剂
+list.suning.com/0-263024.html:图书	262523-0	体育/运动	263024	太极
+list.suning.com/0-344370.html:汽车用品	344257	整车/服务	344370	整车销售
+list.suning.com/0-342010.html:家装建材/厨具/家具	180501	成人用品	342010	SM用品
+jipiao.suning.com:彩票/旅行/充值/游戏		机票		国内机票
+list.suning.com/0-263402.html:图书		计算机/网络	263402	硬件外部设备维修
+list.suning.com/0-161666.html:家装建材/厨具/家具		生活日用	161666	收纳用品
+list.suning.com/0-500429.html:酒水饮料/食品保健		营养保健	500429	维生素B/叶酸
+list.suning.com/0-20086.html:配件/数码/手机	20084	数码配件	20086	相机贴膜
+list.suning.com/0-263535.html:图书		法律	263535	法的理论
+list.suning.com/0-440004.html:配件/数码/手机		运营商	440004	苏宁互联购机入网
+list.suning.com/0-500508.html:酒水饮料/食品保健		休闲食品	500508	口香糖 
+list.suning.com/0-337511.html:生活电器/厨卫电器	20359	个护健康	337511	美发器
+list.suning.com/0-264234.html:图书		两性关系	264234	性
+list.suning.com/0-344286.html:箱包/皮具	344248	精品男包	344286	男士单肩包
+list.suning.com/0-95502.html:生活电器/厨卫电器		厨房小家电	95502	电饼铛/烤饼机
+list.suning.com/0-264391.html:图书	264010-0	社会科学	264391	社会科学类教材
+list.suning.com/0-218503.html:生活电器/厨卫电器	20320	厨卫大家电	218503	浴霸/排气扇
+sh.suning.com/life/6-1.html:彩票/旅行/充值/游戏	1	转账汇款	1	银行卡转账
+list.suning.com/0-262974.html:图书	262522-0	中小学教辅	262974	七年级
+list.suning.com/0-263039.html:图书	262523-0	体育/运动	263039	其它棋牌
+list.suning.com/0-500471.html:酒水饮料/食品保健		冲调饮品	500471	藕粉 
+list.suning.com/0-330523.html:美妆	315685	美妆工具	330523	化妆棉/棒
+list.suning.com/0-338022.html:大家电	244009-0	影音	338022	工程音响
+list.suning.com/0-308503.html:配件/数码/手机	20016	手机配件	308503	蓝牙耳机
+list.suning.com/0-263576.html:图书	262528-0	管理	263576	金融/投资
+search.suning.com/%E5%8F%8C%E5%8D%A1%E5%8F%8C%E5%BE%85%E6%89%8B%E6%9C%BA/cityId={cityId}:配件/数码/手机	20002	手机通讯	20006-0-1-0-0-0-0-0-0-30394	双卡双待
+list.suning.com/0-420513.html:运动户外		运动鞋	420513	训练鞋
+list.suning.com/0-410506.html:配件/数码/手机		智能设备	410506	健康监测
+list.suning.com/0-315565.html:母婴	315560-0	百万孕妈专区	315565	防辐射
+list.suning.com/0-262765.html:图书	262519-0	医学	262765	基础医学
+list.suning.com/0-264320.html:图书		少儿	264320	3-6岁
+list.suning.com/0-264538.html:图书	262522-0	中小学教辅	264538	八年级
+list.suning.com/0-500533.html:酒水饮料/食品保健		生鲜食品	500533	加工类肉食
+list.suning.com/0-420507.html:运动户外		运动鞋	420507	足球鞋
+list.suning.com/0-157243.html:外设/办公/电脑	157237	电脑外设	157243	电脑音箱
+list.suning.com/0-262566.html:图书	262520-0	地图/地理	262566	欧洲地图
+list.suning.com/0-344293.html:箱包/皮具	344248	精品男包	344293	男士钱包/卡包
+list.suning.com/0-313107-0.html:母婴		尿裤/湿巾	313107-0	纸尿裤
+list.suning.com/0-244020.html:外设/办公/电脑	157237	电脑外设	244020	线材
+list.suning.com/0-157251.html:外设/办公/电脑	157237	电脑外设	157251	鼠标垫
+list.suning.com/0-265018.html:图书	262512-0	工业技术	265018	工业技术原版书
+list.suning.com/0-264286.html:图书	262518-0	美食	264286	八大菜系
+list.suning.com/0-420025.html:运动户外	420009	户外装备	420025	军迷用品
+list.suning.com/0-500418.html:酒水饮料/食品保健		营养保健	500418	玛卡/玛咖
+list.suning.com/0-264269.html:图书	262516-0	美丽装扮	264269	美容师用书
+www.manzuo.com/jdly?campaign=suning_shouye_daohang:彩票/旅行/充值/游戏		生活团购		旅游酒店
+b2g.suning.com/vgs-b2g-web/:彩票/旅行/充值/游戏		机票		企业差旅
+list.suning.com/0-315009.html:母婴		海外直通车	315009	宝宝用品
+list.suning.com/0-500486.html:酒水饮料/食品保健	500365	厨房调料	500486	食盐
+list.suning.com/0-157249.html:外设/办公/电脑	157237	电脑外设	157249	摄像头
+list.suning.com/0-500419.html:酒水饮料/食品保健		营养保健	500419	膳食纤维
+list.suning.com/0-344370-0-0-0-0-0-0-0-0-29913.html:汽车用品	344257	整车/服务	344370-0-0-0-0-0-0-0-0-29913	整车全款销售
+list.suning.com/0-346881.html:服装鞋帽		女装	346881	女士针织/毛衣
+list.suning.com/0-264176.html:图书		历史	264176	史学理论
+list.suning.com/0-500462.html:酒水饮料/食品保健		冲调饮品	500462	豆浆/豆奶粉
+list.suning.com/0-500600.html:家装建材/厨具/家具		生活用纸	500600	其他生活用纸
+list.suning.com/0-337505.html:配件/数码/手机	20084	数码配件	337505	镜头附件
+list.suning.com/0-313014.html:母婴	313013-0	营养辅食	313014	辅食
+list.suning.com/0-420541.html:运动户外	420006	运动包/户外包/配件	420541	围巾/围脖
+list.suning.com/0-264235.html:图书		两性关系	264235	两性之间
+list.suning.com/0-291004.html:服装鞋帽	164010	配饰	291004	脚套
+list.suning.com/0-340594.html:服装鞋帽	164010	配饰	340594	胸针、胸花
+list.suning.com/0-420050.html:运动户外		垂钓用品	420050	鱼钩钓钩
+list.suning.com/0-263007.html:图书	264009-0	收藏/鉴赏	263007	收藏百科
+list.suning.com/0-377003-0.html:彩票/旅行/充值/游戏	377003	旅游	377003-0	景点门票
+list.suning.com/0-263023.html:图书	262523-0	体育/运动	263023	体育理论与教学
+list.suning.com/0-310504.html:配件/数码/手机	20084	数码配件	310504	拍立得附件
+list.suning.com/0-500382.html:酒水饮料/食品保健	500375	茶叶	500382	水果茶
+list.suning.com/0-410504.html:配件/数码/手机		智能设备	410504	智能手表
+list.suning.com/0-269003.html:外设/办公/电脑		办公文仪	269003	安防监控
+list.suning.com/0-244006-0-0-0-0-0-0-0-0-25223.html:大家电		洗（干）衣机	244006-0-0-0-0-0-0-0-0-25223	迷你洗衣机
+list.suning.com/0-321003.html:图书		童书馆	321003	有声读物
+list.suning.com/0-431505-0-0-0-0-0-0-0-0-79476.html:大家电	431504	空调	431505-0-0-0-0-0-0-0-0-79476	立柜式空调
+caipiao.suning.com/jxssc/:彩票/旅行/充值/游戏		彩票		新时时彩
+list.suning.com/0-204553.html:家装建材/厨具/家具		生活日用	204553	装饰用品/礼品
+list.suning.com/0-263260.html:图书	262526-0	经济	263260	中国经济
+list.suning.com/0-263580.html:图书	262528-0	管理	263580	管理信息系统
+list.suning.com/0-317068.html:母婴		玩具	317068	棋牌游戏
+list.suning.com/0-173001.html:生活电器/厨卫电器	20366	生活小家电	173001	干衣/干鞋机
+list.suning.com/0-340555.html:服装鞋帽	233003	内衣	340555	女士吊带/背心/打底衫
+list.suning.com/0-420040.html:运动户外		骑行装备	420040	修车工具
+list.suning.com/0-263119.html:图书	262521-0	外语	263119	日语
+list.suning.com/0-264179.html:图书		历史	264179	历史知识读物
+list.suning.com/0-373032.html:图书		经管励志	373032	管理馆
+list.suning.com/0-262737.html:图书	262519-0	医学	262737	外科学
+list.suning.com/0-244008-0-0-0-0-0-0-0-0-45359.html:大家电	243504	冰箱/冷柜	244008-0-0-0-0-0-0-0-0-45359	商用展示柜
+list.suning.com/0-500509.html:酒水饮料/食品保健		休闲食品	500509	果冻/布丁 
+list.suning.com/0-338007.html:生活电器/厨卫电器	20320	厨卫大家电	338007	其它厨卫大电器
+list.suning.com/0-340591.html:服装鞋帽		女装	340591	婚纱/礼服/旗袍
+list.suning.com/0-263406.html:图书		计算机/网络	263406	图形图像/多媒体
+list.suning.com/0-420044.html:运动户外		骑行装备	420044	骑行鞋
+list.suning.com/0-344256.html:箱包/皮具		功能箱包	344256	拉杆箱
+list.suning.com/0-264055.html:图书	262515-0	建筑	264055	标准/规范
+list.suning.com/0-500424.html:酒水饮料/食品保健		营养保健	500424	保健饮品
+list.suning.com/0-340030.html:珠宝/钟表/礼品		乐器	340030	吹奏乐器
+list.suning.com/0-20025.html:配件/数码/手机	20016	手机配件	20025	手机存储卡
+list.suning.com/0-263582.html:图书	262528-0	管理	263582	电子商务
+list.suning.com/0-340551.html:服装鞋帽	233003	内衣	340551	内裤
+list.suning.com/0-264133.html:图书	262524-0	教育考试	264133	财税外贸保险类考试
+list.suning.com/0-500385.html:酒水饮料/食品保健	500375	茶叶	500385	黑茶
+list.suning.com/0-338020.html:大家电	293006	电视	338020	显像管电视机
+list.suning.com/0-263338.html:图书		自然科学	263338	天文学
+list.suning.com/0-263170.html:图书		文化	263170	史
+list.suning.com/0-340580.html:服装鞋帽		男装	340580	男士套装

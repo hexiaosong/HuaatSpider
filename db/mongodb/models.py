@@ -144,8 +144,7 @@ class JDvisitedUrl(Document):
     version = StringField(default='', required=False, verbose_name='爬取版本')
     meta = {
         'db_alias': "default",
-        'name': "HuaatSpiders",
-        "collection": "visitedUrlAnother",
+        "collection": "JDvisitedUrl",
         'strict': False,
         "indexes": [
             "add_time",
@@ -167,12 +166,100 @@ class JDeCommerceSpider(Document):
     hive_str = StringField(default='', required=False, verbose_name='爬取版本')
     meta = {
         'db_alias': "HuaatSpiders",
-        "collection": "eCommerceSpiderAnother",
+        "collection": "JDeCommerceSpider",
         'strict': False,
         "indexes": [
             "-add_time",
             "platform",
             "url",
+            "version",
+        ]
+    }
+
+
+class GomevisitedUrl(Document):
+    add_time = DateTimeField(
+        db_field='createtime',
+        default=datetime.datetime.now,
+        verbose_name='爬取时间',
+    )
+    url = StringField(default='', required=False, verbose_name='已爬取url')
+    flag_cate = IntField(default=0, verbose_name='是否为类别链接')
+    page = IntField(default=0, verbose_name='页码')
+    version = StringField(default='', required=False, verbose_name='爬取版本')
+    meta = {
+        'db_alias': "default",
+        "collection": "GomevisitedUrl",
+        'strict': False,
+        "indexes": [
+            "add_time",
+            "page",
+            "url",
+            "version",
+        ]
+    }
+
+
+class GomeCommerceSpider(Document):
+    add_time = DateTimeField(
+        db_field='createtime',
+        default=datetime.datetime.now,
+        verbose_name='爬取时间',
+    )
+    platform = StringField(default='', required=False, verbose_name='爬取平台')
+    version = StringField(default='', required=False, verbose_name='爬取版本')
+    hive_str = StringField(default='', required=False, verbose_name='爬取版本')
+    meta = {
+        'db_alias': "HuaatSpiders",
+        "collection": "GomeeCommerceSpider",
+        'strict': False,
+        "indexes": [
+            "add_time",
+            "platform",
+            "version",
+        ]
+    }
+
+
+class SuningvisitedUrl(Document):
+    add_time = DateTimeField(
+        db_field='createtime',
+        default=datetime.datetime.now,
+        verbose_name='爬取时间',
+    )
+    url = StringField(default='', required=False, verbose_name='已爬取url')
+    flag_cate = IntField(default=0, verbose_name='是否为类别链接')
+    page = IntField(default=0, verbose_name='页码')
+    version = StringField(default='', required=False, verbose_name='爬取版本')
+    meta = {
+        'db_alias': "default",
+        "collection": "GomevisitedUrl",
+        'strict': False,
+        "indexes": [
+            "add_time",
+            "page",
+            "url",
+            "version",
+        ]
+    }
+
+
+class SuningeCommerceSpider(Document):
+    add_time = DateTimeField(
+        db_field='createtime',
+        default=datetime.datetime.now,
+        verbose_name='爬取时间',
+    )
+    platform = StringField(default='', required=False, verbose_name='爬取平台')
+    version = StringField(default='', required=False, verbose_name='爬取版本')
+    hive_str = StringField(default='', required=False, verbose_name='爬取版本')
+    meta = {
+        'db_alias': "HuaatSpiders",
+        "collection": "GomeeCommerceSpider",
+        'strict': False,
+        "indexes": [
+            "add_time",
+            "platform",
             "version",
         ]
     }
