@@ -2,7 +2,7 @@ APScheduler==3.4.0
 beautifulsoup4==4.6.0
 bs4==0.0.1
 Fabric==1.14.0
-lxml==4.1.1
+lxml==4.9.1
 mongoengine==0.14.3
 MySQL-python==1.2.5
 pymongo==3.5.1
